@@ -5,7 +5,7 @@ description: Barton Willage is a PhD candidate at Cornell University.
 keywords: 
 ---
 
-
+test
 
 
 ---
@@ -21,7 +21,8 @@ keywords:
         </div>
         
         <div class="span5">
-            Barton Willage, PhD Candidate, Economics, Cornell University<br/>
+            Barton Willage
+            <br/>PhD Candidate, Economics, Cornell University<br/>
             <div id="hide_email">
             Email: <code>b</code><b>I</b><code>j</code><b>don't</b><code>w</code><b>want</b><code>94</code><b>spam!
             </b><code>@</code><b>So</b><code>c</code><b>please</b><code>o</code><b>leave
