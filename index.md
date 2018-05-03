@@ -1,11 +1,13 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Barton Willage
+description: Barton Willage is a PhD candidate at Cornell University. 
+keywords: 
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.
+
+Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -17,18 +19,18 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+            Barton Willage<br/>
             <div id="hide_email">
-            Email: <code>WO</code><b>I</b><code>OF</code><b>don't</b><code>WO</code><b>want</b><code>OF</code><b>spam!
-            </b><code>@</code><b>So</b><code>GO</code><b>please</b><code>OD</code><b>leave
-            </b><code>BOY</code><b>me</b><code>.</code><b>alone</b><code>C</code><b>!</b><code>OM</code><br/>
+            Email: <code>B</code><b>I</b><code>J</code><b>don't</b><code>W</code><b>want</b><code>94</code><b>spam!
+            </b><code>@</code><b>So</b><code>C</code><b>please</b><code>O</code><b>leave
+            </b><code>RNELL</code><b>me</b><code>.</code><b>alone</b><code>E</code><b>!</b><code>DU</code><br/>
             </div>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Barton Willage" alt="Barton Willage"/></a>
         </div>
     </div>
 </div>
