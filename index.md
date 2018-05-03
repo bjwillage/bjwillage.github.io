@@ -18,6 +18,12 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
 <h4><a name="contact"></a></h4>
 
     <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Barton Willage" alt="Barton Willage"/></a>
+        </div>
+        
         <div class="span5">
             Barton Willage<br/>
             <div id="hide_email">
@@ -25,12 +31,6 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
             </b><code>@</code><b>So</b><code>c</code><b>please</b><code>o</code><b>leave
             </b><code>rnell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Barton Willage" alt="Barton Willage"/></a>
         </div>
     </div>
 </div>
