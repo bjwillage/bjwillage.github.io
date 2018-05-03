@@ -22,7 +22,7 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
             Barton Willage<br/>
             <div id="hide_email">
             Email: <code>b</code><b>I</b><code>j</code><b>don't</b><code>w</code><b>want</b><code>94</code><b>spam!
-            </b><code>@</code><b>So</b><code>c</code><b>please</b><code>c</code><b>leave
+            </b><code>@</code><b>So</b><code>c</code><b>please</b><code>o</code><b>leave
             </b><code>rnell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
