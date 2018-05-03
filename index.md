@@ -21,9 +21,9 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
         <div class="span5">
             Barton Willage<br/>
             <div id="hide_email">
-            Email: <code>B</code><b>I</b><code>J</code><b>don't</b><code>W</code><b>want</b><code>94</code><b>spam!
-            </b><code>@</code><b>So</b><code>C</code><b>please</b><code>O</code><b>leave
-            </b><code>RNELL</code><b>me</b><code>.</code><b>alone</b><code>E</code><b>!</b><code>DU</code><br/>
+            Email: <code>b</code><b>I</b><code>j</code><b>don't</b><code>w</code><b>want</b><code>94</code><b>spam!
+            </b><code>@</code><b>So</b><code>c</code><b>please</b><code>c</code><b>leave
+            </b><code>rnell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
@@ -39,8 +39,8 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/bjwillage">GitHub</a></li>
+          <li><a href="https://twitter.com/bartonwillage">Twitter (@BartonWillage)</a></li>
       </ul>
   </div>
 </div>
