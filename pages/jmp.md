@@ -1,48 +1,7 @@
 ---
 layout: page
-title: Research
-description: Barton Willage's research
+title: JMP
+description: Barton Willage's JMP page
 ---
 
-
-## Research In Progress
-
-#### Ex Ante Moral Hazard in Health Insurance: Lessons from the ACA and Risky Sex
-*Few studies in the health economics literature examine the unintended consequences of health insurance on risky health behaviors and investment in good health. These distortions, known as ex ante moral hazard, can have important impacts on health expenditures and health outcomes. I use a policy in the ACA and pre-policy insured rates as a measure of policy intensity to isolate the effect of health insurance as they relate to sexual behavior. I find ex ante moral hazard decreases prevention and increases STIs.*
-<br>
-
-#### The Long-Run Effects of Student Aid on Health: Leveraging Changes in Social Security Benefits
-*I investigate the effect of financial aid on health, specifically BMI and general self-report health. Aid lowers the cost of college, which increases college-going. However, there is little evidence on the long-run impact of aid on health. I exploit a 1981 shock in Social Security benefits to test the effect of aid on health. Minor children of retired or disabled Social Security beneficiaries and children with deceased parents are eligible for their own benefits, and before 1981 these children could receiving benefits conditional on college enrollment. Using difference-in-differences, I show benefits for college students reduced women’s BMI and improved general health, but had no effect on men. I also find that aid improved educational attainment for beneficiaries, which is a plausible mechanism between aid and health.
-<br>
-
-#### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
-The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.
-(with M. Bitler, J. Currie, H. Hoynes, & L. Schulkind)
-
-<br><br>
-
-## Published Research
-
-#### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
-*The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.
-[Full Article](https://www.sciencedirect.com/science/article/pii/S0167629617303223)
-<br>
-
-#### Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport
-*Taxes on sugar-sweetened beverages have been proposed as a possible approach to prevent obesity and improve diets. A goal of the taxes is to increase prices and dissuade consumption, but the taxes are levied on beverage distributors, and it is unclear how much of the tax is passed through to consumers as higher retail prices vs being paid by distributors or manufacturers. We estimate the extent to which the tax of 1.5 cents/oz. on SSBs in Philadelphia (implemented on Jan. 1, 2017) raised retail prices.
-(with J. Cawley and D. Frisvold)
-[Full Article](https://jamanetwork.com/journals/jama/fullarticle/2660167)
-
-
-
-<!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
-
-
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
-
-<!--
-To increase the size of the title, use fewer # in front of the paper title.
-To decrease the size of the title, use more #. 
-To remove the italics, remove the * before and after the description
-To remove the underline from the title, remove the <u> tags (<u> and </u>)
--->
+Given the $3 trillion spent on health care in 2015 and the political contention surrounding insurance expansions, the impact of health insurance on health behaviors, medical utilization, and health outcomes is an important issue in the United States. How insurance influences investment in good health and risky behavior (ex ante moral hazard) has received much less attention than the effect of insurance on the out-of-pocket cost of care (ex post moral hazard). Since the health shocks related to many risky health behaviors take decades to manifest, current health insurance status may not distort those health behaviors. I examine the effect of moral hazard in the context of risky sex, a health behavior that results in quick and economically meaningful consequences – fertility and sexually transmitted infections. I isolate the effect of ex ante moral hazard by exploiting a policy in the Affordable Care Act, the 2012 zero cost-sharing for prescription contraception mandate. Leveraging pre-policy insured rates as a measure of policy intensity, I use dose-response event studies that estimate both a time-varying treatment effect as well as a one-time jump in outcomes in the treatment year. I find that ex ante moral hazard decreases prevention and increases STIs. I then use the 2010 dependent coverage mandate to determine the overall effect of health insurance, and find that the protective effect of insurance on STIs more than compensates for the reduction in prevention.
