@@ -28,7 +28,7 @@ keywords:
             </b><code>rnell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
         
         
-        <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.
+        <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.<br>
 
         <br>Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College.
             </div>
