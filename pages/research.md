@@ -5,6 +5,7 @@ description: Barton Willage's research
 ---
 
 
+## Research In Progress
 
 #### Ex Ante Moral Hazard in Health Insurance: Lessons from the ACA and Risky Sex
 *Few studies in the health economics literature examine the unintended consequences of health insurance on risky health behaviors and investment in good health. These distortions, known as ex ante moral hazard, can have important impacts on health expenditures and health outcomes. I use a policy in the ACA and pre-policy insured rates as a measure of policy intensity to isolate the effect of health insurance as they relate to sexual behavior. I find ex ante moral hazard decreases prevention and increases STIs.*
@@ -16,11 +17,12 @@ description: Barton Willage's research
 The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.
 (with M. Bitler, J. Currie, H. Hoynes, & L. Schulkind)
 
+<br>
+<br>
 
 
 
-
-# Published Research
+## Published Research
 
 #### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
 *The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.
