@@ -15,7 +15,7 @@ Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana Un
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a></h4>
 
     <div class="row-fluid">
         <div class="span5">
