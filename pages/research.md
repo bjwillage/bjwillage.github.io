@@ -17,7 +17,7 @@ description: Barton Willage's research
 The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.
 (with M. Bitler, J. Currie, H. Hoynes, & L. Schulkind)
 
-<br><br><hr>
+<br><br>
 
 ## Published Research
 
