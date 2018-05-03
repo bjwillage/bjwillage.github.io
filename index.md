@@ -26,12 +26,12 @@ keywords:
             Email: <code>b</code><b>I</b><code>j</code><b>don't</b><code>w</code><b>want</b><code>94</code><b>spam!
             </b><code>@</code><b>So</b><code>c</code><b>please</b><code>o</code><b>leave
             </b><code>rnell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            </div>
         
         
         <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.
 
         <br>Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College.
+            </div>
         </div>
     </div>
 </div>
