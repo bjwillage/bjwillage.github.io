@@ -29,11 +29,9 @@ keywords:
             </div>
         
         
-        Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect             health and the more general economic lessons we can learn from policy variation.
+        <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.
 
-        Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago,           and a BA from Beloit College.
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+        Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College.
         </div>
     </div>
 </div>
@@ -47,3 +45,5 @@ keywords:
       </ul>
   </div>
 </div>
+
+<!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
