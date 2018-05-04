@@ -36,7 +36,7 @@ keywords:
     </div>
 </div>
 
-<br>My research areas are primarily health economics and public economics. Generally, I am interested economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
+<br>My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
         
 <div class="navbar">
   <div class="navbar-inner">
