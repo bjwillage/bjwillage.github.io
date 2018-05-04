@@ -1,7 +1,0 @@
----
-layout: page
-title: JMP
-description: Barton Willage's JMP page
----
-
-Given the $3 trillion spent on health care in 2015 and the political contention surrounding insurance expansions, the impact of health insurance on health behaviors, medical utilization, and health outcomes is an important issue in the United States. How insurance influences investment in good health and risky behavior (ex ante moral hazard) has received much less attention than the effect of insurance on the out-of-pocket cost of care (ex post moral hazard). Since the health shocks related to many risky health behaviors take decades to manifest, current health insurance status may not distort those health behaviors. I examine the effect of moral hazard in the context of risky sex, a health behavior that results in quick and economically meaningful consequences – fertility and sexually transmitted infections. I isolate the effect of ex ante moral hazard by exploiting a policy in the Affordable Care Act, the 2012 zero cost-sharing for prescription contraception mandate. Leveraging pre-policy insured rates as a measure of policy intensity, I use dose-response event studies that estimate both a time-varying treatment effect as well as a one-time jump in outcomes in the treatment year. I find that ex ante moral hazard decreases prevention and increases STIs. I then use the 2010 dependent coverage mandate to determine the overall effect of health insurance, and find that the protective effect of insurance on STIs more than compensates for the reduction in prevention.
