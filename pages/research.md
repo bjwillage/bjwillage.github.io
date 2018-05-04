@@ -20,7 +20,7 @@ The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC
 
 #### Non-Monetary Obstacles to Medical Care: Evidence from Postpartum Contraceptives
 Since 2012, state Medicaid agencies have begun to offer increased reimbursement for inpatient postpartum long-acting reversible contraception (LARC). The reimbursement has come in the form of unbundling the device payment from the global hospital payment, i.e. reimbursing the hospital specifically for the insertion of LARC. We use variation across states and time to determine how the increased payments affect LARC use, fertility, and adverse birth outcomes. Preliminary event studies indicate a slight decrease in fertility, as well as a decrease in pre-term delivery among unmarried and teenage mothers. Consistent with our hypothesis, these effects are concentrated among women who have previously given birth.
-(with M. Carlos)<br>
+(with[M. Carlos](http://marisacarlos.com/))<br>
 
 
 
@@ -28,13 +28,13 @@ Since 2012, state Medicaid agencies have begun to offer increased reimbursement 
 ## Published Research
 
 #### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
-The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.
+The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.<br>
 [Full Article](https://www.sciencedirect.com/science/article/pii/S0167629617303223)<br>
 <br>
 
 #### Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport
 Taxes on sugar-sweetened beverages have been proposed as a possible approach to prevent obesity and improve diets. A goal of the taxes is to increase prices and dissuade consumption, but the taxes are levied on beverage distributors, and it is unclear how much of the tax is passed through to consumers as higher retail prices vs being paid by distributors or manufacturers. We estimate the extent to which the tax of 1.5 cents/oz. on SSBs in Philadelphia (implemented on Jan. 1, 2017) raised retail prices.
-(with J. Cawley and D. Frisvold)
+(with J. Cawley and D. Frisvold)<br>
 [Full Article](https://jamanetwork.com/journals/jama/fullarticle/2660167)<br>
 
 
