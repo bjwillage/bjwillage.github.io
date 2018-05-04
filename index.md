@@ -27,10 +27,10 @@ keywords:
             Email: bjw94@cornell.edu<br>
         
         
-        <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.<br>
+        <br>I will be starting as an assistant professor of economics at Louisiana State University in Fall 2018. I am finishing my PhD in economics at Cornell University. Before coming to Cornell, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br><br>
+        <br>My research areas are primarily health economics and public economics. Generally, I am interested economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br>
 
-        <br>Before coming to Cornell, Barton earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br><br>
-            </div>
+</div>
         </div>
     </div>
 </div>
