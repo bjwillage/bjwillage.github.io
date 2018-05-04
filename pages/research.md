@@ -8,8 +8,8 @@ description: Barton Willage's research
 ## Research In Progress
 
 #### Ex Ante Moral Hazard in Health Insurance: Lessons from the ACA and Risky Sex
-Few studies in the health economics literature examine the unintended consequences of health insurance on risky health behaviors and investment in good health. These distortions, known as ex ante moral hazard, can have important impacts on health expenditures and health outcomes. I use a policy in the ACA and pre-policy insured rates as a measure of policy intensity to isolate the effect of health insurance as they relate to sexual behavior. I find ex ante moral hazard decreases prevention and increases STIs.</br>
-<br>
+Few studies in the health economics literature examine the unintended consequences of health insurance on risky health behaviors and investment in good health. These distortions, known as ex ante moral hazard, can have important impacts on health expenditures and health outcomes. I use a policy in the ACA and pre-policy insured rates as a measure of policy intensity to isolate the effect of health insurance as they relate to sexual behavior. I find ex ante moral hazard decreases prevention and increases STIs.
+<br></br>
 
 #### The Long-Run Effects of Student Aid on Health: Leveraging Changes in Social Security Benefits
 I investigate the effect of financial aid on health, specifically BMI and general self-report health. Aid lowers the cost of college, which increases college-going. However, there is little evidence on the long-run impact of aid on health. I exploit a 1981 shock in Social Security benefits to test the effect of aid on health. Minor children of retired or disabled Social Security beneficiaries and children with deceased parents are eligible for their own benefits, and before 1981 these children could receiving benefits conditional on college enrollment. Using difference-in-differences, I show benefits for college students reduced women’s BMI and improved general health, but had no effect on men. I also find that aid improved educational attainment for beneficiaries, which is a plausible mechanism between aid and health.<br>
