@@ -32,11 +32,12 @@ keywords:
         I am finishing my PhD in economics at Cornell University. Before coming to Cornell, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br>
         
             </div>
-        <br>My research areas are primarily health economics and public economics. Generally, I am interested economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
         </div>
     </div>
 </div>
 
+<br>My research areas are primarily health economics and public economics. Generally, I am interested economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
+        
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
