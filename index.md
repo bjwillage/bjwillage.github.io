@@ -27,10 +27,12 @@ keywords:
             Email: bjw94@cornell.edu<br>
         
         
-        <br>I will be starting as an assistant professor of economics at Louisiana State University in Fall 2018. I am finishing my PhD in economics at Cornell University. Before coming to Cornell, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br>
+        <br>I will be starting as an assistant professor of economics at Louisiana State University in Fall 2018.  <br><br>
+        
+        I am finishing my PhD in economics at Cornell University. Before coming to Cornell, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br>
+        
+            </div>
         <br>My research areas are primarily health economics and public economics. Generally, I am interested economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
-
-</div>
         </div>
     </div>
 </div>
