@@ -24,7 +24,7 @@ keywords:
             Barton Willage
             <br/>PhD Candidate, Economics, Cornell University<br/>
             <div id="hide_email">
-            Email: bjw94@cornell.edu</br>
+            Email: bjw94@cornell.edu<br><br>
         
         
         <br>Barton is an economics PhD candidate at Cornell University. He is particularly interested in how government policies affect health and the more general economic lessons we can learn from policy variation.<br>
