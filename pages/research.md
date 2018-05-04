@@ -16,10 +16,15 @@ I investigate the effect of financial aid on health, specifically BMI and genera
 
 #### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
 The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.
-(with M. Bitler, J. Currie, H. Hoynes, & L. Schulkind)
+(with M. Bitler, J. Currie, H. Hoynes, & L. Schulkind)<br>
+
+#### Non-Monetary Obstacles to Medical Care: Evidence from Postpartum Contraceptives
+Since 2012, state Medicaid agencies have begun to offer increased reimbursement for inpatient postpartum long-acting reversible contraception (LARC). The reimbursement has come in the form of unbundling the device payment from the global hospital payment, i.e. reimbursing the hospital specifically for the insertion of LARC. We use variation across states and time to determine how the increased payments affect LARC use, fertility, and adverse birth outcomes. Preliminary event studies indicate a slight decrease in fertility, as well as a decrease in pre-term delivery among unmarried and teenage mothers. Consistent with our hypothesis, these effects are concentrated among women who have previously given birth.
+(with M. Carlos)<br>
+
+
 
 <br><br>
-
 ## Published Research
 
 #### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
