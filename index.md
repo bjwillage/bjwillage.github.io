@@ -48,4 +48,27 @@ keywords:
   </div>
 </div>
 
+
+<html>
+<body>
+
+<p>Click the button to display the date and time this document was last modified.</p>
+
+<p><strong>Note:</strong> In this example, we convert the lastModified property into a Date object.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = new Date(document.lastModified);
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>
+
+
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
