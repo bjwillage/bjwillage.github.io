@@ -48,8 +48,9 @@ keywords:
   </div>
 </div>
 
+<!--            If date doesn't work, here is another way
+<!-- <script language="Javascript">
+<!-- document.write("Last Modified: " + document.lastModified +"");
+<!-- </SCRIPT>
 
-<script language="Javascript">
-document.write("Last Modified: " + document.lastModified +"");
-</SCRIPT>
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
