@@ -60,7 +60,7 @@ function myFunction() {
     document.getElementById("demo").innerHTML = x;
 }
 </script>
-
+myFunction()
 </body>
 </html>
 test
