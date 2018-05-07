@@ -52,6 +52,13 @@ keywords:
 </div>
 <html>
 <body>
+
+<p>Click the button to display the date and time this document was last modified.</p>
+
+<p><strong>Note:</strong> In this example, we convert the lastModified property into a Date object.</p>
+
+<button onclick="myFunction()">Try it</button>
+
 <p id="demo"></p>
 
 <script>
@@ -60,6 +67,7 @@ function myFunction() {
     document.getElementById("demo").innerHTML = x;
 }
 </script>
+
 </body>
 </html>
 myFunction()
