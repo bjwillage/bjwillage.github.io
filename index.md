@@ -49,9 +49,7 @@ keywords:
 </div>
 
 
-Last Modified: 7 May 2018
-
 <script language="Javascript">
-document.write("This page was last modified on: " + document.lastModified +"");
+document.write("Last Modified: " + document.lastModified +"");
 </SCRIPT>
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/> -->
