@@ -89,8 +89,21 @@ h1, h2, h3, h4 {
 
 
 <!-- set of nav bar and header -->
-navbar-inner{
+.navbar-inner{
    background-color:#664499;
    background-image:linear-gradient(to bottom, #664499, #664499);
    border:1px solid #664499;
+}
+.navbar .brand {
+   color: #fccf22;
+   text-shadow: 0 1px 0 #fccf22;
+}
+.navbar-text{
+   color:#fccf22;
+}
+.navbar-link{
+   color:#fccf22;
+}
+.navbar-link:hover{
+   color:#fccf22;
 }
