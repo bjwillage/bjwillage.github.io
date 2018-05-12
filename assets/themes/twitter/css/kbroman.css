@@ -89,7 +89,7 @@ h1, h2, h3, h4 {
 
 
 
-.navbar-inner{
+.navbar-inner {
    min-height:40px;
    padding-left:20px;
    padding-right:20px;
@@ -115,12 +115,12 @@ h1, h2, h3, h4 {
    color: #fccf22;
    text-shadow: 0 1px 0 #fccf22;
 }
-.navbar-text{
+.navbar-text {
    color:#fccf22;
 }
-.navbar-link{
+.navbar-link {
    color:#fccf22;
 }
-.navbar-link:hover{
+.navbar-link:hover {
    color:#fccf22;
 }
