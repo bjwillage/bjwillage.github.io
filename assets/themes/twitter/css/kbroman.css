@@ -113,7 +113,7 @@ h1, h2, h3, h4 {
 /* Change nav and header text color */
 .navbar .brand {
    color: #fccf22;
-   text-shadow: 0 0px 0 #fccf22;
+   text-shadow: none;
 }
 .navbar-text {
    color:#fccf22;
@@ -127,12 +127,12 @@ h1, h2, h3, h4 {
 /*Change color of your website name in navigation bar
 .navbar .brand {
    color: #ffffff;
-   text-shadow: 0 1px 0 #ffffff;
+   text-shadow: none;
 }*/
 /*Change color of the links in the navigation bar:*/
 .navbar .nav>li>a {
    color: #ffffff;
-   text-shadow: 0 0px 0 #ffffff;
+   text-shadow: none;
 }
 
 /*I THNK one of these will change the color of a link in the navbar when you hover over it*/
