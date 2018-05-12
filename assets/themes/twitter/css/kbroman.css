@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 
 
 
-<!-- set of nav bar and header -->
+
 .navbar-inner{
    min-height:40px;
    padding-left:20px;
@@ -111,7 +111,6 @@ h1, h2, h3, h4 {
 
 
 
-<!-- set of nav bar and header text -->
 .navbar .brand {
    color: #fccf22;
    text-shadow: 0 1px 0 #fccf22;
