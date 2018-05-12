@@ -124,3 +124,13 @@ h1, h2, h3, h4 {
 .navbar-link:hover {
    color:#fccf22;
 }
+/*Change color of your website name in navigation bar
+.navbar .brand {
+   color: #ffffff;
+   text-shadow: 0 1px 0 #ffffff;
+}*/
+/*Change color of the links in the navigation bar:*/
+.navbar .nav>li>a {
+   color: #ffffff;
+   text-shadow: 0 1px 0 #ffffff;
+}
