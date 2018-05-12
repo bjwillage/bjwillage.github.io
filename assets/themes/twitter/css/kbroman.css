@@ -85,3 +85,16 @@ h1, h2, h3, h4 {
     border-left: 6px solid #ffeb3b;
     padding-left: 10px;
 }
+
+
+
+<!-- set of nav bar and header -->
+navbar-inner{
+   background-color:#664499;
+   background-image:-moz-linear-gradient(top, #664499, #664499);
+   background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#664499), to(#664499));
+   background-image:-webkit-linear-gradient(top, #664499, #664499);
+   background-image:-o-linear-gradient(top, #664499, #664499);
+   background-image:linear-gradient(to bottom, #664499, #664499);
+   border:1px solid #664499;
+}
