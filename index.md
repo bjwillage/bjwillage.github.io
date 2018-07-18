@@ -29,9 +29,7 @@ keywords:
             Email: bjw94@cornell.edu<br>
         
         
-        <br>I am an assistant professor of economics at Louisiana State University.  <br><br>
-        
-        My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.
+        <br>I am an assistant professor of economics at Louisiana State University. My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.
         
             </div>
         </div>
