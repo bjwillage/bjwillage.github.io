@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Barton Willage
-description: Barton Willage is a PhD candidate at Cornell University. 
+description: Barton Willage is an Assistant Professor, Department of Economics, Louisiana State University. 
 keywords: 
 ---
 
@@ -21,8 +21,9 @@ keywords:
         </div>
         
         <div class="span5">
-            Barton Willage
-            <br/>PhD Candidate, Economics, Cornell University<br/>
+            Barton Willage, PhD
+            <br/>Assistant Professor, Department of Economics<br/>
+            <br/>Louisiana State University<br/>
             <div id="hide_email">
             Email: bjw94@cornell.edu<br>
         
