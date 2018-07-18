@@ -22,22 +22,23 @@ keywords:
         
         <div class="span5">
             Barton Willage, PhD
-            <br/>Assistant Professor, Department of Economics<br/>
+            <br/>Assistant Professorcs<br/>
+            Department of Economics<br/>
             Louisiana State University<br/>
             <div id="hide_email">
             Email: bjw94@cornell.edu<br>
         
         
-        <br>I will be starting as an assistant professor of economics at Louisiana State University in Fall 2018.  <br><br>
+        <br>I am an assistant professor of economics at Louisiana State University.  <br><br>
         
-        I am finishing my PhD in economics at Cornell University. Before coming to Cornell, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br>
+        My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.
         
             </div>
         </div>
     </div>
 </div>
 
-<br>My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.<br><br>
+<br>Before coming to LSU, I earned my PhD in economics at Cornell University. And before that, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br><br><br>
         
 <div class="navbar">
   <div class="navbar-inner">
