@@ -22,8 +22,8 @@ keywords:
         
         <div class="span5">
             Barton Willage, PhD
-            <br/>Assistant Professor, Department of Economics<br/>
-            <br/>Louisiana State University<br/>
+            <br/>Assistant Professor, Department of Economics
+            Louisiana State University<br/>
             <div id="hide_email">
             Email: bjw94@cornell.edu<br>
         
