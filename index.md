@@ -22,7 +22,7 @@ keywords:
         
         <div class="span5">
             Barton Willage, PhD
-            <br/>Assistant Professorcs<br/>
+            <br/>Assistant Professor<br/>
             Department of Economics<br/>
             Louisiana State University<br/>
             <div id="hide_email">
