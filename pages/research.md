@@ -7,8 +7,8 @@ description: Barton Willage's research
 
 ## Research In Progress
 
-#### Ex Ante Moral Hazard in Health Insurance: Lessons from the ACA and Risky Sex
-Few studies in the health economics literature examine the unintended consequences of health insurance on risky health behaviors and investment in good health. These distortions, known as ex ante moral hazard, can have important impacts on health expenditures and health outcomes. I use a policy in the ACA and pre-policy insured rates as a measure of policy intensity to isolate the effect of health insurance as they relate to sexual behavior. I find ex ante moral hazard decreases prevention and increases STIs.
+#### Unintended Consequences of Insurance: ACA's Free Contraception Mandate and Risky Sex
+Given current levels of health spending, distortions from insurance are vitally important. I examine insurance’s effect on risky sex, a behavior with quick, meaningful negative results. Leveraging mandated zero cost-sharing for contraception and pre-policy insured rates as a measure of treatment intensity, I find this policy reduced fertility but caused unintended consequences: decreased prevention and increased STIs. I discuss the imperfections of controlling for pre-trends using state-trends in difference-in-differences and suggest approaches to control for pre-trends directly. I use the 2010 dependent coverage mandate to examine the overall effect of insurance and find protective net effects of insurance on STIs.
 <br><br>
 
 #### The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field Experiment of Calorie Labels on Restaurant Menus
