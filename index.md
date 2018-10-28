@@ -26,7 +26,7 @@ keywords:
             Department of Economics<br/>
             Louisiana State University<br/>
             <div id="hide_email">
-            Email: bjw94@cornell.edu<br>
+            Email: bwillage@LSU.edu<br>
         
         
         <br>I am an assistant professor of economics at Louisiana State University. My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.
