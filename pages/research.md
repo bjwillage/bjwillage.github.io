@@ -51,7 +51,8 @@ Taxes on sugar-sweetened beverages have been proposed as a possible approach to 
 
 #### Unintended Consequences of Health Insurance: ACA's Free Contraception Mandate and Risky Sex
 Given current levels of health spending, distortions from insurance are vitally important. I examine insurance’s effect on risky sex, a behavior with quick, meaningful negative results. Leveraging mandated zero cost-sharing for contraception and pre-policy insured rates as a measure of treatment intensity, I find this policy reduced fertility but caused unintended consequences: decreased prevention and increased STIs. I discuss the imperfections of controlling for pre-trends using state-trends in difference-in-differences and suggest approaches to control for pre-trends directly. I use the 2010 dependent coverage mandate to examine the overall effect of insurance and find protective net effects of insurance on STIs.<br>
-Accepted at Health Economics
+Accepted at Health Economics<br>
+[Full Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3967?af=R)
 <br><br>
 
 
