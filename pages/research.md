@@ -21,6 +21,12 @@ The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), & [L. Schulkind](http://lisaschulkind.weebly.com/))
 <br><br>
 
+#### Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment of Restaurant Menu Calorie Labels
+The United States, in 2018, implemented a nationwide requirement that chain restaurants disclose calorie information on their menus and menu boards. This law was motivated by concern that consumers underestimate the number of calories in restaurant food, but it remains unclear the extent to which this information disclosure affects consumer knowledge. This paper fills that gap by estimating the impact of information disclosure on consumer knowledge through a randomized controlled field experiment of calorie labels on the menus of a full-service restaurant. The results indicate that information disclosure significantly reduces the extent to which consumers underestimate the number of calories in restaurant food; the labels improve the accuracy of consumers’ post-meal estimates of the number of calories they ordered by 4.0 percent and reduces by 28.9% the probability of underestimating the calories in one’s meal by 50% or more, both of which are statistically significant. However, even after information disclosure, there remains considerable error in consumer beliefs about the calorie content of the restaurant food they ordered. Even among the treatment group who received calorie labels, the average absolute value of percent error in their report is 34.2%.<br>
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
+<a href="http://www.nber.org/papers/w27126">NBER Working Paper No. 27126 </a><br>
+<br><br>
+
 
 
 <br><br>
@@ -46,6 +52,7 @@ Given current levels of health spending, distortions from insurance are vitally 
 A rich experimental literature demonstrates positive effects of pay-per-visit fitness incentives. However, most insurance plans that provide fitness incentives follow a different structure, offering membership reimbursements conditional on meeting a specific attendance threshold. We provide the first evidence in the literature on gym incentives of this structure, exploiting the introduction and subsequent discontinuation of a large-scale wellness program at a major American university. Using bunching methods and difference-in-difference designs, we provide four empirical results. First, we document that the policy led to significant bunching at the attendance threshold. Second, we show that the program increased average gym visits by almost five visits per semester, a 20% increase from the mean. Third, we find that the policy not only motivated students who were previously near the threshold, but rather increased attendance across the entire visit distribution. Finally, we show that approximately 50% of the effect persists a year after program termination. Taken together, these results suggest that rebate-framed incentives with a high attendance threshold can induce healthy behaviors in the short-term, and that these positive behaviors persist even after the incentives have been removed.<br>
 (with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))<br>
 Accepted at Journal of Health Economics<br>
+[Full Article](https://www.sciencedirect.com/science/article/pii/S0167629619310367)
 <br><br>
 
 
@@ -53,6 +60,7 @@ Accepted at Journal of Health Economics<br>
 The impact of information on consumer behavior is a classic topic in economics, and there has recently been particular interest in whether providing nutritional information leads consumers to choose healthier diets. For example, a nationwide requirement of calorie counts on the menus of chain restaurants took effect in the U.S. in May, 2018, and the results of such information disclosure are not well known. To estimate the impact of menu labeling, we conducted a randomized controlled field experiment in two full-service restaurants, in which the control group received the usual menus and the treatment group received the same menus but with calorie counts. We estimate that the labels resulted in a 3.0% reduction in calories ordered, with the reduction occurring in appetizers and entrees but not drinks or desserts. Exposure to the information also increases consumers’ support for requiring calorie labels by 9.6%. These results are informative about the impact of the new nationwide menu label requirement, and more generally contribute to the literature on the impact of information disclosure on consumer behavior. <br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
 Accepted at Journal of Policy Analysis and Management; <a href="http://www.nber.org/papers/w24889">NBER Working Paper No. 24889 </a><br>
+[Full Article](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
 <br><br>
 
 <!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
