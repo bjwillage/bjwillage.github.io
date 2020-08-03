@@ -2,7 +2,7 @@
 ---
 layout: page
 title: JMP
-description: Barton Willage's JMP page, just forward to published paper
+description: Barton Willage's JMP page, just forward to published paper 
 ---
 
 
