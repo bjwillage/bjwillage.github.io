@@ -29,7 +29,7 @@ keywords:
             Email: bwillage@LSU.edu<br><br>
         
         
-        <br>I am an assistant professor of economics at Louisiana State University. My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health.
+        <br>I am an assistant professor of economics at Louisiana State University. My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health. My research also touches on topics of education and labor economics.
         
             </div>
         </div>
