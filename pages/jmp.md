@@ -13,11 +13,3 @@ The final title of this paper is "Unintended Consequences of Health Insurance: A
 
 
 
-
-<!--[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
-
-
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
-
-<!--
-To increase the size of the title, use fewer # in front of the paper title.
