@@ -62,7 +62,7 @@ The impact of information on consumer behavior is a classic topic in economics, 
 We use random assignment of general practitioners (GPs) to provide the first evidence on the effects of female role models in childhood on the long-run educational outcomes of girls. We find that girls who are exposed to female GPs in childhood are significantly more likely to sort into traditionally male-dominated education programs in high school, most notably STEMM. These effects persist as females enter college and select majors. We also find strong positive effects on educational performance throughout their academic careers, suggesting that female role models in childhood improve education matches of girls. The effects we identify are significantly larger for high-ability girls with low educated parents, suggesting that female role models may improve intergenerational mobility and narrow the gifted gap for disadvantaged girls. <br>
 <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
 (with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Revise and Resubmit at Review of Economics and Statistics<br><br>
+Accepted at Review of Economics and Statistics<br><br>
 
 
 
