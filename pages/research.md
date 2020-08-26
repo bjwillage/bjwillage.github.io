@@ -28,27 +28,11 @@ The United States, in 2018, implemented a nationwide requirement that chain rest
 <br><br>
 ## Published Research
 
-#### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
-The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.<br>
-[Journal of Health Economics (2018)](https://www.sciencedirect.com/science/article/pii/S0167629617303223)
-<br><br>
-
-#### Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport
-Taxes on sugar-sweetened beverages have been proposed as a possible approach to prevent obesity and improve diets. A goal of the taxes is to increase prices and dissuade consumption, but the taxes are levied on beverage distributors, and it is unclear how much of the tax is passed through to consumers as higher retail prices vs being paid by distributors or manufacturers. We estimate the extent to which the tax of 1.5 cents/oz. on SSBs in Philadelphia (implemented on Jan. 1, 2017) raised retail prices.<br>
-(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [D. Frisvold](https://www.biz.uiowa.edu/frisvold/))<br>
-[JAMA (2018)](https://jamanetwork.com/journals/jama/fullarticle/2660167)
-<br><br>
-
-#### Unintended Consequences of Health Insurance: ACA's Free Contraception Mandate and Risky Sex
-Given current levels of health spending, distortions from insurance are vitally important. I examine insurance’s effect on risky sex, a behavior with quick, meaningful negative results. Leveraging mandated zero cost-sharing for contraception and pre-policy insured rates as a measure of treatment intensity, I find this policy reduced fertility but caused unintended consequences: decreased prevention and increased STIs. I discuss the imperfections of controlling for pre-trends using state-trends in difference-in-differences and suggest approaches to control for pre-trends directly. I use the 2010 dependent coverage mandate to examine the overall effect of insurance and find protective net effects of insurance on STIs.<br>
-[Health Economics (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3967?af=R)
-<br><br>
-
-#### Rebates as Incentives: The Effects of a Gym Membership Reimbursement Program
-A rich experimental literature demonstrates positive effects of pay-per-visit fitness incentives. However, most insurance plans that provide fitness incentives follow a different structure, offering membership reimbursements conditional on meeting a specific attendance threshold. We provide the first evidence in the literature on gym incentives of this structure, exploiting the introduction and subsequent discontinuation of a large-scale wellness program at a major American university. Using bunching methods and difference-in-difference designs, we provide four empirical results. First, we document that the policy led to significant bunching at the attendance threshold. Second, we show that the program increased average gym visits by almost five visits per semester, a 20% increase from the mean. Third, we find that the policy not only motivated students who were previously near the threshold, but rather increased attendance across the entire visit distribution. Finally, we show that approximately 50% of the effect persists a year after program termination. Taken together, these results suggest that rebate-framed incentives with a high attendance threshold can induce healthy behaviors in the short-term, and that these positive behaviors persist even after the incentives have been removed.<br>
-(with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))<br>
-[Journal of Health Economics (2020)](https://www.sciencedirect.com/science/article/pii/S0167629619310367)
-<br><br>
+#### Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners
+We use random assignment of general practitioners (GPs) to provide the first evidence on the effects of female role models in childhood on the long-run educational outcomes of girls. We find that girls who are exposed to female GPs in childhood are significantly more likely to sort into traditionally male-dominated education programs in high school, most notably STEMM. These effects persist as females enter college and select majors. We also find strong positive effects on educational performance throughout their academic careers, suggesting that female role models in childhood improve education matches of girls. The effects we identify are significantly larger for high-ability girls with low educated parents, suggesting that female role models may improve intergenerational mobility and narrow the gifted gap for disadvantaged girls. <br>
+<a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
+(with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
+Accepted at Review of Economics and Statistics<br><br>
 
 
 #### The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field Experiment of Calorie Labels on Restaurant Menus
@@ -58,11 +42,39 @@ The impact of information on consumer behavior is a classic topic in economics, 
 <br><br>
 
 
-#### Can Female Doctors Cure the Gender STEMM Gap? A Role Model Story 
-We use random assignment of general practitioners (GPs) to provide the first evidence on the effects of female role models in childhood on the long-run educational outcomes of girls. We find that girls who are exposed to female GPs in childhood are significantly more likely to sort into traditionally male-dominated education programs in high school, most notably STEMM. These effects persist as females enter college and select majors. We also find strong positive effects on educational performance throughout their academic careers, suggesting that female role models in childhood improve education matches of girls. The effects we identify are significantly larger for high-ability girls with low educated parents, suggesting that female role models may improve intergenerational mobility and narrow the gifted gap for disadvantaged girls. <br>
-<a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
-(with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at Review of Economics and Statistics<br><br>
+#### Rebates as Incentives: The Effects of a Gym Membership Reimbursement Program
+A rich experimental literature demonstrates positive effects of pay-per-visit fitness incentives. However, most insurance plans that provide fitness incentives follow a different structure, offering membership reimbursements conditional on meeting a specific attendance threshold. We provide the first evidence in the literature on gym incentives of this structure, exploiting the introduction and subsequent discontinuation of a large-scale wellness program at a major American university. Using bunching methods and difference-in-difference designs, we provide four empirical results. First, we document that the policy led to significant bunching at the attendance threshold. Second, we show that the program increased average gym visits by almost five visits per semester, a 20% increase from the mean. Third, we find that the policy not only motivated students who were previously near the threshold, but rather increased attendance across the entire visit distribution. Finally, we show that approximately 50% of the effect persists a year after program termination. Taken together, these results suggest that rebate-framed incentives with a high attendance threshold can induce healthy behaviors in the short-term, and that these positive behaviors persist even after the incentives have been removed.<br>
+(with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))<br>
+[Journal of Health Economics (2020)](https://www.sciencedirect.com/science/article/pii/S0167629619310367)
+<br><br>
+
+
+#### Unintended Consequences of Health Insurance: ACA's Free Contraception Mandate and Risky Sex
+Given current levels of health spending, distortions from insurance are vitally important. I examine insurance’s effect on risky sex, a behavior with quick, meaningful negative results. Leveraging mandated zero cost-sharing for contraception and pre-policy insured rates as a measure of treatment intensity, I find this policy reduced fertility but caused unintended consequences: decreased prevention and increased STIs. I discuss the imperfections of controlling for pre-trends using state-trends in difference-in-differences and suggest approaches to control for pre-trends directly. I use the 2010 dependent coverage mandate to examine the overall effect of insurance and find protective net effects of insurance on STIs.<br>
+[Health Economics (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3967?af=R)
+<br><br>
+
+
+#### Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport
+Taxes on sugar-sweetened beverages have been proposed as a possible approach to prevent obesity and improve diets. A goal of the taxes is to increase prices and dissuade consumption, but the taxes are levied on beverage distributors, and it is unclear how much of the tax is passed through to consumers as higher retail prices vs being paid by distributors or manufacturers. We estimate the extent to which the tax of 1.5 cents/oz. on SSBs in Philadelphia (implemented on Jan. 1, 2017) raised retail prices.<br>
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [D. Frisvold](https://www.biz.uiowa.edu/frisvold/))<br>
+[JAMA (2018)](https://jamanetwork.com/journals/jama/fullarticle/2660167)
+<br><br>
+
+
+#### The Effect of Weight on Mental Health: New Evidence Using Genetic IVs
+The causal effect of obesity on mental health has been largely ignored by economists. Using genetic variation in obesity predisposition, I instrument for BMI to determine the impact on measures of suicidality and depression. I find an effect of BMI on suicidal ideation but not other measures of mental health. This effect on suicidal ideation is concentrated in white women. Social stigma is the mechanism through which weight affects mental health.<br>
+[Journal of Health Economics (2018)](https://www.sciencedirect.com/science/article/pii/S0167629617303223)
+<br><br>
+
+
+
+
+
+
+
+
+
 
 
 
