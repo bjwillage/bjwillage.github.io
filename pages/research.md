@@ -39,7 +39,7 @@ Accepted at Review of Economics and Statistics<br><br>
 #### The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field Experiment of Calorie Labels on Restaurant Menus
 The impact of information on consumer behavior is a classic topic in economics, and there has recently been particular interest in whether providing nutritional information leads consumers to choose healthier diets. For example, a nationwide requirement of calorie counts on the menus of chain restaurants took effect in the U.S. in May, 2018, and the results of such information disclosure are not well known. To estimate the impact of menu labeling, we conducted a randomized controlled field experiment in two full-service restaurants, in which the control group received the usual menus and the treatment group received the same menus but with calorie counts. We estimate that the labels resulted in a 3.0% reduction in calories ordered, with the reduction occurring in appetizers and entrees but not drinks or desserts. Exposure to the information also increases consumers’ support for requiring calorie labels by 9.6%. These results are informative about the impact of the new nationwide menu label requirement, and more generally contribute to the literature on the impact of information disclosure on consumer behavior. <br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
-[Journal of Policy Analysis and Management (Accepted)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
+[Journal of Policy Analysis and Management (2020)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
 <br><br>
 
 
