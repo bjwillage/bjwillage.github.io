@@ -14,7 +14,7 @@ Revise and Resubmit at American Journal of Health Economics
 
 #### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
 The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/),& [L. Schulkind](http://lisaschulkind.weebly.com/))
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
 <br><br>
 
 #### Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment of Restaurant Menu Calorie Labels
