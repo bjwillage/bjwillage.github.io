@@ -27,6 +27,7 @@ Revise and Resubmit at American Journal of Health Economics
 #### Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children
 The first year after childbirth involves dramatic changes to parents’ lives and is crucial for children’s development. Using plausibly exogenous job loss from mass layoffs, we study the effect of labor shocks on mothers and children. Mothers displaced in the postpartum year experience significantly larger effects than mothers displaced in non-birth years. No such effects are present among fathers. Additionally, we find long-lasting harm to children’s educational outcomes. These effects do not extend to children who experience maternal job loss later in life nor to children who experience paternal job loss. Examining potential mechanisms suggest effects are driven by maternal stress.  
 (with [A. Willén](https://www.alexanderwillen.com/))<br>
+[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2688961/DP%2022.pdf?sequence=1&isAllowed=y)
 <br><br>
 
 
