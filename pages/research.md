@@ -12,11 +12,15 @@ I investigate the effect of financial aid on health, specifically BMI and genera
 Revise and Resubmit at American Journal of Health Economics
 <br><br>
 
+#### The Effect of Labor Market Shocks Across the Life Cycle
+Economic shocks occur frequently and may cause individuals to reevaluate key life decisions in ways that have lasting consequences for themselves and the broader economy. These decisions are tied to specific life stages, and the effect of economic shocks may therefore differ depending on when they occur. We exploit exogenous job separations to study the impact of adverse shocks across the lifecycle on labor market outcomes and major life decisions: education, mobility, family structure, and retirement. We find significant heterogeneity across the lifecycle, and conclude that focusing on average effects among workers across the life cycle misses a great deal.<br>
+(with [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home), [A. Willén](https://www.alexanderwillen.com/))
+<br><br>
+
 #### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
 The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is one of the most widely used food assistance programs in the U.S. We estimate regression discontinuity models that leverage sharp changes in program benefits and eligibility in order to examine effects of the program on a wide range of health and nutrition outcomes. We focus on the effects of WIC on infants and children; on spillover effects from targeted children to other family members; and on the effects of changes in the composition and delivery of program benefits.<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
 <br><br>
-
 
 #### Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children
 The first year after childbirth involves dramatic changes to parents’ lives and is crucial for children’s development. Using plausibly exogenous job loss from mass layoffs, we study the effect of labor shocks on mothers and children. Mothers displaced in the postpartum year experience significantly larger effects than mothers displaced in non-birth years. No such effects are present among fathers. Additionally, we find long-lasting harm to children’s educational outcomes. These effects do not extend to children who experience maternal job loss later in life nor to children who experience paternal job loss. Examining potential mechanisms suggest effects are driven by maternal stress.  
