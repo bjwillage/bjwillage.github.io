@@ -14,7 +14,7 @@ Revise and Resubmit at American Journal of Health Economics
 
 #### The Effect of Labor Market Shocks Across the Life Cycle
 Economic shocks occur frequently and may cause individuals to reevaluate key life decisions in ways that have lasting consequences for themselves and the broader economy. These decisions are tied to specific life stages, and the effect of economic shocks may therefore differ depending on when they occur. We exploit exogenous job separations to study the impact of adverse shocks across the lifecycle on labor market outcomes and major life decisions: education, mobility, family structure, and retirement. We find significant heterogeneity across the lifecycle, and conclude that focusing on average effects among workers across the life cycle misses a great deal.<br>
-(with [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home), [A. Willén](https://www.alexanderwillen.com/))
+(with [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
 <br><br>
 
 #### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
