@@ -12,9 +12,14 @@ I investigate the effect of financial aid on health, specifically BMI and genera
 Revise and Resubmit at American Journal of Health Economics
 <br><br>
 
+#### Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers
+A rich literature documents the benefits of social safety net programs for children. This paper focuses on an unexplored margin: how children’s programs impact parents’ well-being. We explore changes in children’s public health insurance and its effects on parents’ economic and behavioral outcomes. Using a simulated instrument for Medicaid eligibility expansions in the 1980s and 1990s, we isolate variation in children’s Medicaid eligibility due to changes in government policies. We find that increases in children’s Medicaid eligibility increases the likelihood a mother is married, decreases her labor market participation, and reduces her smoking and alcohol consumption. Our findings suggest improved maternal well-being as measured by the Center for Epidemiological Studies-Depression score, a proxy for mental health. These results uncover a new link that provides an important mechanism, parental well-being, for interpreting the literature’s findings on the long-term, short-term, and intergenerational effects of Medicaid coverage. <br>
+(with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
+<br><br>
+
 #### The Effect of Labor Market Shocks Across the Life Cycle
 Economic shocks occur frequently and may cause individuals to reevaluate key life decisions in ways that have lasting consequences for themselves and the broader economy. These decisions are tied to specific life stages, and the effect of economic shocks may therefore differ depending on when they occur. We exploit exogenous job separations to study the impact of adverse shocks across the lifecycle on labor market outcomes and major life decisions: education, mobility, family structure, and retirement. We find significant heterogeneity across the lifecycle, and conclude that focusing on average effects among workers across the life cycle misses a great deal.<br>
-(with [Kjell G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
+(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
 <br><br>
 
 #### Estimating the Health Impacts of WIC: A Regression Discontinuity Approach
