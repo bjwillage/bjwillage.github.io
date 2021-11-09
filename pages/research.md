@@ -38,7 +38,7 @@ We use random assignment of general practitioners (GPs) to provide the first evi
 (with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
 Accepted at Review of Economics and Statistics<br><br>
 
-#### The Long-Run Effects of Student Aid on Weight: Leveraging Changes in Social Security Benefits
+#### Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits
 I investigate the effect of financial aid on health, specifically BMI and general self-report health. Aid lowers the cost of college, which increases college-going. However, there is little evidence on the long-run impact of aid on health. I exploit a 1981 shock in Social Security benefits to test the effect of aid on health. Minor children of retired or disabled Social Security beneficiaries and children with deceased parents are eligible for their own benefits, and before 1981 these children could receiving benefits conditional on college enrollment. Using difference-in-differences, I show benefits for college students reduced women’s BMI and improved general health, but had no effect on men. I also find that aid improved educational attainment for beneficiaries, which is a plausible mechanism between aid and health.<br>
 Accepted at American Journal of Health Economics
 <br><br>
