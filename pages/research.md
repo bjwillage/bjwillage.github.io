@@ -7,11 +7,6 @@ description: Barton Willage's research
 
 ## Research In Progress
 
-#### The Long-Run Effects of Student Aid on Weight: Leveraging Changes in Social Security Benefits
-I investigate the effect of financial aid on health, specifically BMI and general self-report health. Aid lowers the cost of college, which increases college-going. However, there is little evidence on the long-run impact of aid on health. I exploit a 1981 shock in Social Security benefits to test the effect of aid on health. Minor children of retired or disabled Social Security beneficiaries and children with deceased parents are eligible for their own benefits, and before 1981 these children could receiving benefits conditional on college enrollment. Using difference-in-differences, I show benefits for college students reduced women’s BMI and improved general health, but had no effect on men. I also find that aid improved educational attainment for beneficiaries, which is a plausible mechanism between aid and health.<br>
-Revise and Resubmit at American Journal of Health Economics
-<br><br>
-
 #### Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers
 A rich literature documents the benefits of social safety net programs for children. This paper focuses on an unexplored margin: how children’s programs impact parents’ well-being. We explore changes in children’s public health insurance and its effects on parents’ economic and behavioral outcomes. Using a simulated instrument for Medicaid eligibility expansions in the 1980s and 1990s, we isolate variation in children’s Medicaid eligibility due to changes in government policies. We find that increases in children’s Medicaid eligibility increases the likelihood a mother is married, decreases her labor market participation, and reduces her smoking and alcohol consumption. Our findings suggest improved maternal well-being as measured by the Center for Epidemiological Studies-Depression score, a proxy for mental health. These results uncover a new link that provides an important mechanism, parental well-being, for interpreting the literature’s findings on the long-term, short-term, and intergenerational effects of Medicaid coverage. <br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
@@ -43,12 +38,16 @@ We use random assignment of general practitioners (GPs) to provide the first evi
 (with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
 Accepted at Review of Economics and Statistics<br><br>
 
+#### The Long-Run Effects of Student Aid on Weight: Leveraging Changes in Social Security Benefits
+I investigate the effect of financial aid on health, specifically BMI and general self-report health. Aid lowers the cost of college, which increases college-going. However, there is little evidence on the long-run impact of aid on health. I exploit a 1981 shock in Social Security benefits to test the effect of aid on health. Minor children of retired or disabled Social Security beneficiaries and children with deceased parents are eligible for their own benefits, and before 1981 these children could receiving benefits conditional on college enrollment. Using difference-in-differences, I show benefits for college students reduced women’s BMI and improved general health, but had no effect on men. I also find that aid improved educational attainment for beneficiaries, which is a plausible mechanism between aid and health.<br>
+Accepted at American Journal of Health Economics
+<br><br>
 
 #### Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment of Restaurant Menu Calorie Labels
 The United States, in 2018, implemented a nationwide requirement that chain restaurants disclose calorie information on their menus and menu boards. This law was motivated by concern that consumers underestimate the number of calories in restaurant food, but it remains unclear the extent to which this information disclosure affects consumer knowledge. This paper fills that gap by estimating the impact of information disclosure on consumer knowledge through a randomized controlled field experiment of calorie labels on the menus of a full-service restaurant. The results indicate that information disclosure significantly reduces the extent to which consumers underestimate the number of calories in restaurant food; the labels improve the accuracy of consumers’ post-meal estimates of the number of calories they ordered by 4.0 percent and reduces by 28.9% the probability of underestimating the calories in one’s meal by 50% or more, both of which are statistically significant. However, even after information disclosure, there remains considerable error in consumer beliefs about the calorie content of the restaurant food they ordered. Even among the treatment group who received calorie labels, the average absolute value of percent error in their report is 34.2%.<br>
 <a href="http://www.nber.org/papers/w27126">NBER Working Paper No. 27126 </a><br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
-Accepted at American Journal of Health Economics
+[American Journal of Health Economics (2021)](https://doi.org/10.1086/714987)
 <br><br>
 
 #### The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field Experiment of Calorie Labels on Restaurant Menus
