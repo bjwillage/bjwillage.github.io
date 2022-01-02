@@ -14,7 +14,7 @@ A rich literature documents the benefits of social safety net programs for child
 
 #### The Effect of Labor Market Shocks Across the Life Cycle
 Economic shocks occur frequently and may cause individuals to reevaluate key life decisions in ways that have lasting consequences for themselves and the broader economy. These decisions are tied to specific life stages, and the effect of economic shocks may therefore differ depending on when they occur. We exploit exogenous job separations to study the impact of adverse shocks across the lifecycle on labor market outcomes and major life decisions: education, mobility, family structure, and retirement. We find significant heterogeneity across the lifecycle, and conclude that focusing on average effects among workers across the life cycle misses a great deal.<br>
-(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
+(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
 [cesifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)
 <br><br>
 
