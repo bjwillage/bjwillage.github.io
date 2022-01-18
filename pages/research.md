@@ -9,7 +9,8 @@ description: Barton Willage's research
 
 #### Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers
 A rich literature documents the benefits of social safety net programs for children. This paper focuses on an unexplored margin: how children’s programs impact parents’ well-being. We explore changes in children’s public health insurance and its effects on parents’ economic and behavioral outcomes. Using a simulated instrument for Medicaid eligibility expansions in the 1980s and 1990s, we isolate variation in children’s Medicaid eligibility due to changes in government policies. We find that increases in children’s Medicaid eligibility increases the likelihood a mother is married, decreases her labor market participation, and reduces her smoking and alcohol consumption. Our findings suggest improved maternal well-being as measured by the Center for Epidemiological Studies-Depression score, a proxy for mental health. These results uncover a new link that provides an important mechanism, parental well-being, for interpreting the literature’s findings on the long-term, short-term, and intergenerational effects of Medicaid coverage. <br>
-(with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
+(with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))<br>
+[NBER Working Paper](https://www.nber.org/papers/w29661)
 <br><br>
 
 #### The Effect of Labor Market Shocks Across the Life Cycle
