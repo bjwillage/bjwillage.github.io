@@ -21,7 +21,7 @@ description: Barton Willage's research
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
 <br><br>
 
-"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"
+"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
 (with [A. Willén](https://www.alexanderwillen.com/))
 [NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2688961/DP%2022.pdf?sequence=1&isAllowed=y)
 <br><br>
@@ -47,12 +47,12 @@ Accepted at Review of Economics and Statistics<br><br>
 Accepted at American Journal of Health Economics
 <br><br>
 
-"Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment of Restaurant Menu Calorie Labels"<br>
+"Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment <br>of Restaurant Menu Calorie Labels"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
 [American Journal of Health Economics (2021)](https://doi.org/10.1086/714987)
 <br><br>
 
-"The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field Experiment of Calorie Labels on Restaurant Menus"<br>
+"The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field <br>Experiment of Calorie Labels on Restaurant Menus"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
 [Journal of Policy Analysis and Management (2020)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
 <br><br>
