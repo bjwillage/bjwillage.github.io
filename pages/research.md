@@ -5,7 +5,7 @@ description: Barton Willage's research
 ---
 
 
-## Research In Progress
+#### Research In Progress
 
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
@@ -36,7 +36,7 @@ description: Barton Willage's research
 
 
 <br><br>
-## Published Research
+#### Published Research
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a>
