@@ -7,7 +7,7 @@ description: Barton Willage's research
 
 ## Research In Progress
 
-#### Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers
+"Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))<br>
 [NBER Working Paper](https://www.nber.org/papers/w29661)
 <br><br>
