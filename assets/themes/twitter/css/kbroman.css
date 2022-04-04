@@ -112,17 +112,17 @@ h1, h2, h3, h4 {
 
 /* Change nav and header text color */
 .navbar .brand {
-   color: #FFFFFF;
+   color: #ffffff;
    text-shadow: none;
 }
 .navbar-text {
-   color:#FFFFFF;
+   color:#ffffff;
 }
 .navbar-link {
-   color:#FFFFFF;
+   color:#ffffff;
 }
 .navbar-link:hover {
-   color:#FFFFFF;
+   color:#ffffff;
 }
 /*Change color of your website name in navigation bar
 .navbar .brand {
