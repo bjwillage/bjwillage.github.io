@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Barton Willage
-description: Barton Willage is an Assistant Professor, Department of Economics, Louisiana State University. 
+description: Barton Willage is an Assistant Professor, Department of Economics, University of Colorado - Denver. 
 keywords: 
 ---
 
@@ -24,21 +24,20 @@ keywords:
             Barton Willage, PhD
             <br/>Assistant Professor<br/>
             Department of Economics<br/>
-            Louisiana State University<br/><br>
+            University of Colorado - Denver<br/><br>
             
             <div id="hide_email">
-            Email: bwillage@LSU.edu<br>
+            Email: barton.willage@ucdenver.edu<br>
             Phone: 812-599-1079<br>
         
         
-        <br>I am an assistant professor of economics at Louisiana State University. My research areas are primarily health economics and public economics. Generally I am interested in the economic lessons we can learn from policy variation, and particularly how government interventions impact health. My research also touches on topics of education and labor economics.
-        
+        <br>I am an assistant professor of economics at University of Colorado - Denver. My research areas are primarily health economics and public economics, and more recently labor economics and economics of education.         
             </div>
         </div>
     </div>
 </div>
 
-<br>Before coming to LSU, I earned my PhD in economics at Cornell University. And before that, I earned a MPA in Policy Analysis from Indiana University, a MA from the University of Chicago, and a BA from Beloit College. <br><br><br>
+<br>Probably you're here for my CV, info on my research, or a link to the conference list. All three can be accessed at the top of the page. Thanks for stopping by. <br><br><br>
         
 <div class="navbar">
   <div class="navbar-inner">
