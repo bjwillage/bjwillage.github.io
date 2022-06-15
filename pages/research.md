@@ -13,7 +13,7 @@ description: Barton Willage's research
 <br><br>
 
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
-(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
 <br><br>
 
@@ -45,7 +45,7 @@ description: Barton Willage's research
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a>
-(with [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))<br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))<br>
 Accepted at Review of Economics and Statistics<br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
