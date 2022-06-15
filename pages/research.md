@@ -46,7 +46,7 @@ description: Barton Willage's research
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a>
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at Review of Economics and Statistics<br><br>
+Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00975)<br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 Accepted at American Journal of Health Economics
