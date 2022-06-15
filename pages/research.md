@@ -5,11 +5,16 @@ description: Barton Willage's research
 ---
 
 
-### Research In Progress
+### Working Papers
 
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
+<br><br>
+
+"Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/julieriisecv/) and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
 <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
