@@ -22,8 +22,9 @@ description: Barton Willage's research
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)
 <br><br>
 
-"Estimating the Health Impacts of WIC: A Regression Discontinuity Approach"<br>
+"Mothers as Insurance: Family Spillovers in WIC"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
+[NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
 "Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
