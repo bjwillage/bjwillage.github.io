@@ -17,11 +17,6 @@ description: Barton Willage's research
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
 <br><br>
 
-"The Effect of Labor Market Shocks Across the Life Cycle"<br>
-(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)
-<br><br>
-
 "Mothers as Insurance: Family Spillovers in WIC"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
 [NBER Working Paper](https://www.nber.org/papers/w30112)
@@ -44,9 +39,13 @@ description: Barton Willage's research
 <br><br>
 ### Published Research
 
+"The Effect of Labor Market Shocks Across the Life Cycle"<br>
+(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)
+Accepted at Journal of Labor Economics <br><br>
+
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
-<a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))<br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
 Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00975)<br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
