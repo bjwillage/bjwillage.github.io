@@ -44,13 +44,13 @@ description: Barton Willage's research
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)<br>
 Accepted at Journal of Labor Economics <br><br>
 
-"Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
-Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00975)<br><br>
-
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 Accepted at American Journal of Health Economics
 <br><br>
+
+"Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) <a href="https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2621215/DP%2018.pdf?sequence=1&isAllowed=yba">NHH Discussion Paper 2019/18 </a><br>
+[Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00975) (2022) <br><br>
 
 "Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment <br>of Restaurant Menu Calorie Labels"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
