@@ -12,7 +12,7 @@ description: Job Resource of Undergrads
 *[Econ Job Market RA Positions](https://econjobmarket.org/market)<br>
 *[PreDoc.org](https://predoc.org/opportunities)<br>
 
-<br><br>
+<br>
 
 ### Policy Research
 *[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
@@ -20,6 +20,17 @@ description: Job Resource of Undergrads
 *[Urban Institute](https://www.urban.org/aboutus/who-we-are/careers)<br>
 *[Federal Reserve (board and regional banks](https://www.federalreserve.gov/careers.htm)<br>
 *[State level policy](https://earn.us/directory/)<br>
+
+<br>
+
+### Government
+*[Federal government](https://www.usajobs.gov/)
+ (They take a long time, so apply early)<br>
+ (Taken a couple of stats class and math? look under statistician and math stat too. Maybe also look for like analyst or economist)<br>
+*[Federal hiring path for students](https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/students/)
+*ORISE fellowships and PMF fellowships<br>
+*You can also check out state governments
+
 
 
 
