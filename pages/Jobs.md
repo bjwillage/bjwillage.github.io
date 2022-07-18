@@ -6,7 +6,8 @@ description: Job Resource of Undergrads
 
 This is a work in progress. <br>
 If you are a faculty who is sharing this with your class, can you shoot me an email to let me know ([barton.willage@ucdenver.edu](barton.willage@ucdenver.edu)). <br>
-If you would like me to add your organization, you can also just send me an email with the link to the careers page.<br><br>
+If you would like me to add your organization, you can also just send me an email with the link to the careers page.<br.
+The American Economic Assoc. also has some [resources](https://www.aeaweb.org/resources/students/careers/govt-not-for-profit)  <br><br>
 
 
 ### Pre-doc / Research Assistant
@@ -21,7 +22,7 @@ If you would like me to add your organization, you can also just send me an emai
 *[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
 *[Pew Research Center](https://www.pewresearch.org/about/careers/)<br>
 *[Urban Institute](https://www.urban.org/aboutus/who-we-are/careers)<br>
-*[Federal Reserve (board and regional banks](https://www.federalreserve.gov/careers.htm)<br>
+*[Federal Reserve (board and regional banks)](https://www.federalreserve.gov/careers.htm)<br>
 *[State level policy](https://earn.us/directory/)<br>
 
 <br>
@@ -30,6 +31,7 @@ If you would like me to add your organization, you can also just send me an emai
 *[Federal Government](https://www.usajobs.gov/)<br>
  (They take a long time, so apply early)<br>
  (Taken a couple of stats class and math? look under statistician and math stat as well as analyst or economist)<br>
+ (Particular agencies to check: Bureau of Labor Statistics, Census Bureau, Federal Trade Commission)
 *[Federal hiring path for students](https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/students/)<br>
 *ORISE fellowships and PMF fellowships<br>
 *You can also check out state governments
@@ -46,9 +48,10 @@ If you would like me to add your organization, you can also just send me an emai
 <br>
 
 ### International Orgs
-*[IMF](https://www.imf.org/en/About/Recruitment)<br>
+*[International Monetary FUnd](https://www.imf.org/en/About/Recruitment)<br>
 *[World Bank](https://www.worldbank.org/en/about/careers)<br>
 *[Inter-American Dev Bank](https://jobs.iadb.org/en)<br>
+*[International Food Policy Research Institute](https://www.ifpri.org/work-with-us)<br>
 
 <br>
 
