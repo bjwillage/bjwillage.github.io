@@ -45,7 +45,7 @@ If you would like me to add your organization, you can also just send me an emai
 
 <br>
 
-### International Orgs (UN, IMF, World Bank, OECD, Inter-American Dev Bank)
+### International Orgs
 *[IMF](https://www.imf.org/en/About/Recruitment)<br>
 *[World Bank](https://www.worldbank.org/en/about/careers)<br>
 *[Inter-American Dev Bank](https://jobs.iadb.org/en)<br>
