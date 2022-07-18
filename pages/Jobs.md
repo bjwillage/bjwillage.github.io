@@ -12,6 +12,15 @@ description: Job Resource of Undergrads
 *[Econ Job Market RA Positions](https://econjobmarket.org/market)<br>
 *[PreDoc.org](https://predoc.org/opportunities)<br>
 
+<br><br>
+
+### Policy Research
+*[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
+*[Pew Research Center](https://www.pewresearch.org/about/careers/)<br>
+*[Urban Institute](https://www.urban.org/aboutus/who-we-are/careers)<br>
+*[Federal Reserve (board and regional banks](https://www.federalreserve.gov/careers.htm)<br>
+*[State level policy](https://earn.us/directory/)<br>
+
 
 
 
