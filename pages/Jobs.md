@@ -10,7 +10,7 @@ description: Job Resource of Undergrads
 *[NBER](https://www.nber.org/jobs/nonnberjobs.html)<br>
 *[Econ RA Twitter Account](https://twitter.com/econ_ra)<br>
 *[Econ Job Market RA Positions](https://econjobmarket.org/market)<br>
-*[NBER](https://predoc.org/opportunities)<br>
+*[PreDoc.org](https://predoc.org/opportunities)<br>
 
 
 
