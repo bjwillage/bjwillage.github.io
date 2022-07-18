@@ -50,7 +50,7 @@ description: Job Resource of Undergrads
 
 ### Ohter
 *[Tech](https://www.dice.com/jobs/)<br>
-*Everywhere? In large companies, there is often a Chief Economist with a small staff of junior economists.
+*Everywhere? In large companies, there is often a Chief Economist with a small staff of junior economists.<br>
 *[Progressive Places w/ Unions](https://npeu.org/)<br>
 *Springboard to many sectors: market research, credit analytics, data science, finance, but also business management, law, entrepreneurship
 
