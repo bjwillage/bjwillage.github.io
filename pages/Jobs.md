@@ -6,7 +6,7 @@ description: Job Resource of Undergrads
 
 This is a work in progress. <br>
 If you are a faculty who is sharing this with your class, can you shoot me an email to let me know ([barton.willage@ucdenver.edu](barton.willage@ucdenver.edu)). <br>
-If you would like me to add your organization, you can also just send me an email with the link to the careers page.<br.
+If you would like me to add your organization, you can also just send me an email with the link to the careers page.<br>
 The American Economic Assoc. also has some [resources](https://www.aeaweb.org/resources/students/careers/govt-not-for-profit)  <br><br>
 
 
