@@ -4,7 +4,7 @@ title: Jobs
 description: Job Resource of Undergrads
 ---
 
-This is a work in progress. <br>
+This is a list of places for econ and econ-adjacent undergrads to find potential places to work. This is a work in progress. <br>
 If you are a faculty who is sharing this with your class, can you shoot me an email to let me know ([barton.willage@ucdenver.edu](barton.willage@ucdenver.edu)). <br>
 If you would like me to add your organization, you can also just send me an email with the link to the careers page.<br>
 The American Economic Association also has some [resources](https://www.aeaweb.org/resources/students/careers/govt-not-for-profit).  <br><br>
@@ -41,6 +41,8 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 
 ### Banking / Consulting
 *[Analysis Group](https://www.analysisgroup.com/careers/)<br>
+*[Cornerstone Research](https://www.cornerstone.com/careers/)<br>
+*[Charles River Associates](https://www.crai.com/careers/jobs/)<br>
 *[NERA](https://www.nera.com/careers.html)<br>
 *[Deloitte](https://www2.deloitte.com/us/en/pages/careers/topics/careers.html)<br>
 *[EY](https://www.ey.com/en_us/careers)<br>
