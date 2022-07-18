@@ -23,10 +23,10 @@ description: Job Resource of Undergrads
 <br>
 
 ### Government
-*[Federal government](https://www.usajobs.gov/)
+*[Federal government](https://www.usajobs.gov/)<br>
  (They take a long time, so apply early)<br>
  (Taken a couple of stats class and math? look under statistician and math stat too. Maybe also look for like analyst or economist)<br>
-*[Federal hiring path for students](https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/students/)
+*[Federal hiring path for students](https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/students/)<br>
 *ORISE fellowships and PMF fellowships<br>
 *You can also check out state governments
 
