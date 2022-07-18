@@ -19,6 +19,7 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 <br>
 
 ### Policy Research
+*[Brookings Institution](https://www.brookings.edu/join-the-top-ranked-think-tank-for-domestic-economic-policy/)<br>
 *[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
 *[Pew Research Center](https://www.pewresearch.org/about/careers/)<br>
 *[Urban Institute](https://www.urban.org/aboutus/who-we-are/careers)<br>
