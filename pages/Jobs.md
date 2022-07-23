@@ -18,17 +18,28 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 
 <br>
 
-### Policy Research
+### Policy Research, Think Tank or Advocacy
 *[Brookings Institution](https://www.brookings.edu/join-the-top-ranked-think-tank-for-domestic-economic-policy/)<br>
-*[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
 *[Pew Research Center](https://www.pewresearch.org/about/careers/)<br>
 *[Urban Institute](https://www.urban.org/aboutus/who-we-are/careers)<br>
-*[Federal Reserve (board and regional banks)](https://www.federalreserve.gov/careers.htm)<br>
+*[Center for American Progress](https://americanprogress.org/about-us/jobs/)<br>
+*[American Enterprise Institute (AEI)](https://www.aei.org/jobs/)<br>
 *[State level policy](https://earn.us/directory/)<br>
 
 <br>
 
+### Policy Research, Government Contract
+*[Abt Associates](https://www.abtassociates.com/careers/join-us-apply-now)<br>
+*[American Institutes for Research](https://www.air.org/build-career-air)<br>
+*[Mathematica Policy Research](https://www.mathematica.org/career-opportunities)<br>
+*[NORC](https://www.norc.org/WorkingAtNORC/Pages/job-listings.aspx)<br>
+*[Westat](https://www.westat.com/careers)<br>
+*[Child Trends](https://www.childtrends.org/about-us/careers)<br>
+
+<br>
+
 ### Government
+*[Federal Reserve (board and regional banks)](https://www.federalreserve.gov/careers.htm) (Technically, only quasi-govermental?)<br>
 *[Federal Government](https://www.usajobs.gov/)<br>
  (They take a long time, so apply early)<br>
  (Taken a couple of stats class and math? Look under statistician and math stat as well as analyst or economist)<br>
