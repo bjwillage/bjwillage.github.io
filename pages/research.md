@@ -22,11 +22,6 @@ description: Barton Willage's research
 [NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
-"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
-(with [A. Willén](https://www.alexanderwillen.com/))
-[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2688961/DP%2022.pdf?sequence=1&isAllowed=y)
-<br><br>
-
 "Getting Lucky: The Long-Term Consequences of Exam Luck"<br>
 (with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)
@@ -43,6 +38,12 @@ description: Barton Willage's research
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)<br>
 Accepted at Journal of Labor Economics <br><br>
+
+"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
+(with [A. Willén](https://www.alexanderwillen.com/))
+[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2688961/DP%2022.pdf?sequence=1&isAllowed=y)<br>
+Accepted at European Economic Review
+<br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 Accepted at American Journal of Health Economics
