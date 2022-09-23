@@ -41,12 +41,11 @@ Accepted at Journal of Labor Economics <br><br>
 
 "Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
 (with [A. Willén](https://www.alexanderwillen.com/))
-[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2688961/DP%2022.pdf?sequence=1&isAllowed=y)<br>
-Accepted at European Economic Review
+[European Economic Review](https://www.sciencedirect.com/science/article/pii/S0014292122001751)<br>
 <br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
-Accepted at American Journal of Health Economics
+[American Journal of Health Economics](https://www.journals.uchicago.edu/doi/10.1086/721567)<br>
 <br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
