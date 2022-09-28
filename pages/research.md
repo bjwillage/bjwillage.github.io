@@ -39,13 +39,13 @@ description: Barton Willage's research
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)<br>
 Accepted at Journal of Labor Economics <br><br>
 
-"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
-(with [A. Willén](https://www.alexanderwillen.com/))
-Accepted at [European Economic Review](https://www.sciencedirect.com/science/article/pii/S0014292122001751)
-<br><br>
-
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 Accepted at [American Journal of Health Economics](https://www.journals.uchicago.edu/doi/10.1086/721567)
+<br><br>
+
+"Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
+(with [A. Willén](https://www.alexanderwillen.com/))
+[European Economic Review (2022)](https://www.sciencedirect.com/science/article/pii/S0014292122001751)
 <br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
