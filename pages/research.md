@@ -27,8 +27,11 @@ description: Barton Willage's research
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)
 <br><br>
 
-"Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
-(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))<br>
+"The Timing of Parental Job Displacement, Child Development and Family Adjustment"<br>
+(with [P. Carneiro](https://www.ucl.ac.uk/~uctppca/), [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home), and [A. Willén](https://www.alexanderwillen.com/))
+[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3023380)
+<br><br>
+
 
 
 <br><br>
@@ -42,6 +45,11 @@ Accepted at Journal of Labor Economics <br><br>
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 Accepted at [American Journal of Health Economics](https://www.journals.uchicago.edu/doi/10.1086/721567)
 <br><br>
+
+"Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
+(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))<br>
+Accepted at Economics of Education Review
+ <br><br>
 
 "Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
 (with [A. Willén](https://www.alexanderwillen.com/))
