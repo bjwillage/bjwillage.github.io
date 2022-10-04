@@ -57,7 +57,7 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 *[NERA](https://www.nera.com/careers.html)<br>
 *[Deloitte](https://www2.deloitte.com/us/en/pages/careers/topics/careers.html)<br>
 *[EY](https://www.ey.com/en_us/careers)<br>
-*[Capitol One](https://www.capitalonecareers.com/)<br>
+*[Capital One](https://www.capitalonecareers.com/)<br>
 
 <br>
 
