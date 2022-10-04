@@ -40,10 +40,10 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 
 ### Government
 *[Federal Reserve (board and regional banks)](https://www.federalreserve.gov/careers.htm) (Technically, only quasi-govermental?)<br>
-*[Federal Government](https://www.usajobs.gov/)<br>
+*[Federal Government](https://www.usajobs.gov/) or agency-specific website<br>
  (They take a long time, so apply early)<br>
  (Taken a couple of stats class and math? Look under statistician and math stat as well as analyst or economist)<br>
- (Particular agencies to check: Bureau of Labor Statistics, Census Bureau, Federal Trade Commission, USDA Economic Research Service)<br>
+ (Particular agencies to check: Bureau of Labor Statistics, Census Bureau, Federal Trade Commission, USDA Economic Research Service, Congressional Budget Office)<br>
 *[Federal hiring path for students](https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/students/)<br>
 *ORISE fellowships and PMF fellowships<br>
 *You can also check out state governments
