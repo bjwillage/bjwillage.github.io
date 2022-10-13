@@ -29,7 +29,7 @@ description: Barton Willage's research
 
 "The Timing of Parental Job Displacement, Child Development and Family Adjustment"<br>
 (with [P. Carneiro](https://www.ucl.ac.uk/~uctppca/), [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home), and [A. Willén](https://www.alexanderwillen.com/))
-[NHH Working Paper](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3023380)
+[IZA Working Paper](https://docs.iza.org/dp15630.pdf)
 <br><br>
 
 
