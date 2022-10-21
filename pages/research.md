@@ -47,7 +47,7 @@ Accepted at [American Journal of Health Economics](https://www.journals.uchicago
 <br><br>
 
 "Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
-(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))<br>
+(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))
 [Economics of Education Review (2022)](https://www.sciencedirect.com/science/article/pii/S0272775722000991)
  <br><br>
 
@@ -57,7 +57,7 @@ Accepted at [American Journal of Health Economics](https://www.journals.uchicago
 <br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_00975) (2022) <br><br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) [Review of Economics and Statistics (2022)](https://doi.org/10.1162/rest_a_00975)  <br><br>
 
 "Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment <br>of Restaurant Menu Calorie Labels"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
