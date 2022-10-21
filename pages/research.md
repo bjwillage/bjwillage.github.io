@@ -48,7 +48,7 @@ Accepted at [American Journal of Health Economics](https://www.journals.uchicago
 
 "Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
 (with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))<br>
-Accepted at Economics of Education Review
+[Economics of Education Review (2022)](https://www.sciencedirect.com/science/article/pii/S0272775722000991)
  <br><br>
 
 "Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
