@@ -59,6 +59,8 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 *[Deloitte](https://www2.deloitte.com/us/en/pages/careers/topics/careers.html)<br>
 *[EY](https://www.ey.com/en_us/careers)<br>
 *[Capital One](https://www.capitalonecareers.com/)<br>
+*[JPMorgan Chase](https://careers.jpmorgan.com/US/en/home)<br>
+*[Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search)<br>
 
 <br>
 
