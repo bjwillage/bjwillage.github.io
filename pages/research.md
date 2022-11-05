@@ -43,7 +43,7 @@ description: Barton Willage's research
 Accepted at Journal of Labor Economics <br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
-Accepted at [American Journal of Health Economics](https://www.journals.uchicago.edu/doi/10.1086/721567)
+[American Journal of Health Economics (2022)](https://www.journals.uchicago.edu/doi/10.1086/721567)
 <br><br>
 
 "Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
