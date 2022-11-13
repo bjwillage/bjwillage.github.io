@@ -38,6 +38,8 @@ keywords:
 </div>
 
 <br>Probably you're here for my CV, info on my research, or a link to the conference list. All three can be accessed at the top of the page. Thanks for stopping by. <br><br><br>
+
+This is just a link to verify I own the doman for use with Mastodon. <a rel="me" href="https://econtwitter.net/@bartonwillage">Mastodon</a>
         
 <div class="navbar">
   <div class="navbar-inner">
