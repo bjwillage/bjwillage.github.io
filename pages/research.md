@@ -13,7 +13,7 @@ description: Barton Willage's research
 <br><br>
 
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
-(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
 <br><br>
 
@@ -32,6 +32,10 @@ description: Barton Willage's research
 [IZA Working Paper](https://docs.iza.org/dp15630.pdf)
 <br><br>
 
+"Employment Protection and Child Development"<br>
+(with  [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
+[NHH Working Paper]([https://docs.iza.org/dp15630.pdf](https://swopec.hhs.se/nhheco/abs/nhheco2022_019.htm))
+<br><br>
 
 
 <br><br>
