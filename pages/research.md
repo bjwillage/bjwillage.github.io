@@ -34,7 +34,7 @@ description: Barton Willage's research
 
 "Employment Protection and Child Development"<br>
 (with  [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
-[NHH Working Paper]([https://docs.iza.org/dp15630.pdf](https://swopec.hhs.se/nhheco/abs/nhheco2022_019.htm))
+[NHH Working Paper](https://swopec.hhs.se/nhheco/abs/nhheco2022_019.htm)
 <br><br>
 
 
