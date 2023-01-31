@@ -13,7 +13,7 @@ Revisions requested at Journal of Health Economics, [NBER Working Paper](https:/
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
-(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos}(https://marisacarlos.com/))
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://marisacarlos.com/))
 Revisions requested at Journal of Policy Analysis and Management
 <br><br>
 
