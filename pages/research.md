@@ -8,12 +8,12 @@ description: Barton Willage's research
 ### Working Papers
 
 "Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
 Revisions requested at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
-(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://marisacarlos.com/))
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://marisacarlos.com/))<br>
 Revisions requested at Journal of Policy Analysis and Management
 <br><br>
 
