@@ -7,6 +7,16 @@ description: Barton Willage's research
 
 ### Working Papers
 
+"Mothers as Insurance: Family Spillovers in WIC"<br>
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
+Revisions requested at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
+<br><br>
+
+"Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos}(https://marisacarlos.com/))
+Revisions requested at Journal of Policy Analysis and Management
+<br><br>
+
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
@@ -15,11 +25,6 @@ description: Barton Willage's research
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
 (with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
-<br><br>
-
-"Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), & [L. Schulkind](http://lisaschulkind.weebly.com/))
-[NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
 "Getting Lucky: The Long-Term Consequences of Exam Luck"<br>
