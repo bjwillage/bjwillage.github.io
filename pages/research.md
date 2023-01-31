@@ -43,7 +43,7 @@ Revisions requested at Journal of Policy Analysis and Management
 <br><br>
 
 
-<br><br>
+<br>
 ### Published Research
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
