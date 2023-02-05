@@ -17,15 +17,17 @@ Revisions requested at Journal of Health Economics, [NBER Working Paper](https:/
 Revisions requested at Journal of Policy Analysis and Management
 <br><br>
 
+"Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
+Revisions requested at Journal of Political Economy Microeconomics
+<br><br>
+
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
 <br><br>
 
-"Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
-(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)
-<br><br>
 
 "Getting Lucky: The Long-Term Consequences of Exam Luck"<br>
 (with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
