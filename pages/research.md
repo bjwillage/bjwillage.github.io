@@ -12,26 +12,21 @@ description: Barton Willage's research
 Revisions requested at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
-"Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
-(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
-Revisions requested at Journal of Policy Analysis and Management
-<br><br>
-
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
 (with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
 Revisions requested at Journal of Political Economy Microeconomics
 <br><br>
 
+"The Value of a High School GPA"<br>
+(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)<br>
+Revisions requested at Review of Economics and Statistics
+<br><br>
+
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
-<br><br>
-
-
-"Getting Lucky: The Long-Term Consequences of Exam Luck"<br>
-(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)
 <br><br>
 
 "The Timing of Parental Job Displacement, Child Development and Family Adjustment"<br>
@@ -52,9 +47,19 @@ Revisions requested at Journal of Political Economy Microeconomics
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)<br>
-Accepted at Journal of Labor Economics <br><br>
+Accepted at Journal of Labor Economics 
+<br><br>
 
-"Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
+"Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
+Accepted at Journal of Policy Analysis and Management
+<br><br>
+
+"Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
+[Review of Economics and Statistics (2022)](https://doi.org/10.1162/rest_a_00975)  <br><br>
+
+"Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"
 [American Journal of Health Economics (2022)](https://www.journals.uchicago.edu/doi/10.1086/721567)
 <br><br>
 
@@ -68,9 +73,6 @@ Accepted at Journal of Labor Economics <br><br>
 [European Economic Review (2022)](https://www.sciencedirect.com/science/article/pii/S0014292122001751)
 <br><br>
 
-"Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) [Review of Economics and Statistics (2022)](https://doi.org/10.1162/rest_a_00975)  <br><br>
-
 "Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment <br>of Restaurant Menu Calorie Labels"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
 [American Journal of Health Economics (2021)](https://doi.org/10.1086/714987)
@@ -81,23 +83,19 @@ Accepted at Journal of Labor Economics <br><br>
 [Journal of Policy Analysis and Management (2020)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
 <br><br>
 
-
 "Rebates as Incentives: The Effects of a Gym Membership Reimbursement Program"<br>
 (with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))
 [Journal of Health Economics (2020)](https://www.sciencedirect.com/science/article/pii/S0167629619310367)
 <br><br>
 
-
 "Unintended Consequences of Health Insurance: ACA's Free Contraception Mandate and Risky Sex"<br>
 [Health Economics (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3967?af=R)
 <br><br>
-
 
 "Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [D. Frisvold](https://www.biz.uiowa.edu/frisvold/))
 [JAMA (2018)](https://jamanetwork.com/journals/jama/fullarticle/2660167)
 <br><br>
-
 
 "The Effect of Weight on Mental Health: New Evidence Using Genetic IVs"<br>
 [Journal of Health Economics (2018)](https://www.sciencedirect.com/science/article/pii/S0167629617303223)
