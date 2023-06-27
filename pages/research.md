@@ -7,11 +7,6 @@ description: Barton Willage's research
 
 ### Working Papers
 
-"Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
-Revisions requested at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
-<br><br>
-
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
 (with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
@@ -48,6 +43,11 @@ Revisions requested at Review of Economics and Statistics
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2021/working-paper/effect-labor-market-shocks-across-life-cycle)<br>
 Accepted at Journal of Labor Economics 
+<br><br>
+
+"Mothers as Insurance: Family Spillovers in WIC"<br>
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
+Acepted at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
