@@ -46,8 +46,8 @@ Accepted at Journal of Labor Economics
 <br><br>
 
 "Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
-Acepted at Journal of Health Economics, [NBER Working Paper](https://www.nber.org/papers/w30112)
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/)) [NBER Working Paper](https://www.nber.org/papers/w30112)<br>
+Acepted at Journal of Health Economics
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
