@@ -52,8 +52,7 @@ Acepted at Journal of Health Economics
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))
-[Journal of Policy Analysis and Management (Forthcoming)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)  <br><br><br>
-<br><br>
+[Journal of Policy Analysis and Management (Forthcoming)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
