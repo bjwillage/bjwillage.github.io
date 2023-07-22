@@ -46,15 +46,15 @@ Accepted at Journal of Labor Economics
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
-(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
 [Journal of Policy Analysis and Management (Forthcoming)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
 
 "Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
 [Journal of Health Economics (2023)](https://doi.org/10.1016/j.jhealeco.2023.102784)<br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) <br>
 [Review of Economics and Statistics (2022)](https://doi.org/10.1162/rest_a_00975)  <br><br>
 
 "Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
@@ -62,27 +62,27 @@ Accepted at Journal of Labor Economics
 <br><br>
 
 "Staying out of Trouble? Effect of High School Career Counseling on Crime"<br>
-(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))
+(with [S. Barnes](https://blancocenter.louisiana.edu/about-us/center-staff),  [L. Beland](https://www.lpbeland.com/), and [S. Joshi](https://sites.google.com/view/swarupjoshi/home?authuser=0))<br>
 [Economics of Education Review (2022)](https://www.sciencedirect.com/science/article/pii/S0272775722000991)
  <br><br>
 
 "Postpartum Job Loss: Transitory Effect on Mothers, Long-run Damage to Children"<br>
-(with [A. Willén](https://www.alexanderwillen.com/))
+(with [A. Willén](https://www.alexanderwillen.com/))<br>
 [European Economic Review (2022)](https://www.sciencedirect.com/science/article/pii/S0014292122001751)
 <br><br>
 
 "Does Information Disclosure Improve Consumer Knowledge? Evidence from a Randomized Experiment <br>of Restaurant Menu Calorie Labels"<br>
-(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
 [American Journal of Health Economics (2021)](https://doi.org/10.1086/714987)
 <br><br>
 
 "The Impact of Information Disclosure on Consumer Behavior: Evidence from a Randomized Field <br>Experiment of Calorie Labels on Restaurant Menus"<br>
-(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
 [Journal of Policy Analysis and Management (2020)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22219)
 <br><br>
 
 "Rebates as Incentives: The Effects of a Gym Membership Reimbursement Program"<br>
-(with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))
+(with [T. Homonoff](https://wagner.nyu.edu/community/faculty/tatiana-homonoff) and [A. Willén](https://www.alexanderwillen.com/))<br>
 [Journal of Health Economics (2020)](https://www.sciencedirect.com/science/article/pii/S0167629619310367)
 <br><br>
 
@@ -91,7 +91,7 @@ Accepted at Journal of Labor Economics
 <br><br>
 
 "Pass-Through of a Tax on Sugar-Sweetened Beverages at the Philadelphia International Airport"<br>
-(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [D. Frisvold](https://www.biz.uiowa.edu/frisvold/))
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [D. Frisvold](https://www.biz.uiowa.edu/frisvold/))<br>
 [JAMA (2018)](https://jamanetwork.com/journals/jama/fullarticle/2660167)
 <br><br>
 
