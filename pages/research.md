@@ -45,14 +45,13 @@ Revisions requested at Review of Economics and Statistics
 Accepted at Journal of Labor Economics 
 <br><br>
 
-"Mothers as Insurance: Family Spillovers in WIC"<br>
-(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/)) [NBER Working Paper](https://www.nber.org/papers/w30112)<br>
-Acepted at Journal of Health Economics
-<br><br>
-
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))
 [Journal of Policy Analysis and Management (Forthcoming)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
+
+"Mothers as Insurance: Family Spillovers in WIC"<br>
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))
+[Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2023.102784)<br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
