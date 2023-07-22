@@ -51,7 +51,7 @@ Accepted at Journal of Labor Economics
 
 "Mothers as Insurance: Family Spillovers in WIC"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))
-[Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2023.102784)<br><br>
+[Journal of Health Economics (2023)](https://doi.org/10.1016/j.jhealeco.2023.102784)<br><br>
 
 "Can Female Doctors Cure the Gender STEMM Gap? Evidence from Exogenously-assigned General Practitioners"<br>
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
