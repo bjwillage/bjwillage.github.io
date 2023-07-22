@@ -57,7 +57,7 @@ Accepted at Journal of Labor Economics
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/)) 
 [Review of Economics and Statistics (2022)](https://doi.org/10.1162/rest_a_00975)  <br><br>
 
-"Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"
+"Student Aid, Higher Education, and Long-Run Health: Leveraging Changes in Social Security Benefits"<br>
 [American Journal of Health Economics (2022)](https://www.journals.uchicago.edu/doi/10.1086/721567)
 <br><br>
 
