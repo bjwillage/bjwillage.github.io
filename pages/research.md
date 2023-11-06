@@ -47,7 +47,7 @@ Accepted at Journal of Labor Economics
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
-[Journal of Policy Analysis and Management (Forthcoming)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
+[Journal of Policy Analysis and Management (2023)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
 
 "Mothers as Insurance: Family Spillovers in WIC"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
