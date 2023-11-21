@@ -13,12 +13,6 @@ description: Barton Willage's research
 Revisions requested at Journal of Political Economy Microeconomics
 <br><br>
 
-"The Value of a High School GPA"<br>
-(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)<br>
-Revisions requested at Review of Economics and Statistics
-<br><br>
-
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
@@ -38,6 +32,12 @@ Revisions requested at Review of Economics and Statistics
 <br>
 
 ### Published Research
+
+"The Value of a High School GPA"<br>
+(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)<br>
+Accepted at Review of Economics and Statistics
+<br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))
