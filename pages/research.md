@@ -41,7 +41,7 @@ Accepted at Review of Economics and Statistics
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at [Journal of Labor Economics](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>>
+Accepted at [Journal of Labor Economics](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
