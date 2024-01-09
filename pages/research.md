@@ -44,7 +44,7 @@ Accepted at Review of Economics and Statistics
 Accepted at [Journal of Labor Economics](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>
 
 "Effect of Weight on Depression Using Multiple Genetic Instruments"<br>
-(with [Jutta Viinikainen}(https://www.jyu.fi/fi/henkilot/jutta-viinikainen), [Petri Böckerman](https://www.petribockerman.fi/), [Marko Elovainio](https://researchportal.helsinki.fi/en/persons/marko-elovainio), [Jaana T. Kari1](https://www.jyu.fi/fi/henkilot/jaana-kari), [Terho Lehtimäki](https://www.tuni.fi/en/terho-lehtimaki), [Jaakko Pehkonen](https://www.jyu.fi/fi/henkilot/jaakko-pehkonen), [Niina Pitkänen](https://www.utu.fi/en/people/niina-pitkanen?sort_by=field_publication_date_value&page=5), and [Olli Raitakari](https://www.utu.fi/en/people/olli-raitakari) )<br>
+(with [Jutta Viinikainen](https://www.jyu.fi/fi/henkilot/jutta-viinikainen), [Petri Böckerman](https://www.petribockerman.fi/), [Marko Elovainio](https://researchportal.helsinki.fi/en/persons/marko-elovainio), [Jaana T. Kari1](https://www.jyu.fi/fi/henkilot/jaana-kari), [Terho Lehtimäki](https://www.tuni.fi/en/terho-lehtimaki), [Jaakko Pehkonen](https://www.jyu.fi/fi/henkilot/jaakko-pehkonen), [Niina Pitkänen](https://www.utu.fi/en/people/niina-pitkanen?sort_by=field_publication_date_value&page=5), and [Olli Raitakari](https://www.utu.fi/en/people/olli-raitakari) )<br>
 Accepted at PLOS One<br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
