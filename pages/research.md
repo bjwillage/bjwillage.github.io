@@ -39,13 +39,13 @@ Revisions requested at Journal of Political Economy Microeconomics
 Accepted at Review of Economics and Statistics
 <br><br>
 
-"The Effect of Labor Market Shocks Across the Life Cycle"<br>
-(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at [Journal of Labor Economics](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>
-
 "Effect of Weight on Depression Using Multiple Genetic Instruments"<br>
 (with [Jutta Viinikainen](https://www.jyu.fi/fi/henkilot/jutta-viinikainen), [Petri Böckerman](https://www.petribockerman.fi/), [Marko Elovainio](https://researchportal.helsinki.fi/en/persons/marko-elovainio), [Jaana T. Kari1](https://www.jyu.fi/fi/henkilot/jaana-kari), [Terho Lehtimäki](https://www.tuni.fi/en/terho-lehtimaki), [Jaakko Pehkonen](https://www.jyu.fi/fi/henkilot/jaakko-pehkonen), [Niina Pitkänen](https://www.utu.fi/en/people/niina-pitkanen?sort_by=field_publication_date_value&page=5), and [Olli Raitakari](https://www.utu.fi/en/people/olli-raitakari))<br>
 Accepted at PLOS One<br><br>
+
+"The Effect of Labor Market Shocks Across the Life Cycle"<br>
+(with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
+[Journal of Labor Economics (2024)](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
