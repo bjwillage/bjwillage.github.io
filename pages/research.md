@@ -41,7 +41,8 @@ Accepted at Review of Economics and Statistics
 
 "Effect of Weight on Depression Using Multiple Genetic Instruments"<br>
 (with [Jutta Viinikainen](https://www.jyu.fi/fi/henkilot/jutta-viinikainen), [Petri Böckerman](https://www.petribockerman.fi/), [Marko Elovainio](https://researchportal.helsinki.fi/en/persons/marko-elovainio), [Jaana T. Kari1](https://www.jyu.fi/fi/henkilot/jaana-kari), [Terho Lehtimäki](https://www.tuni.fi/en/terho-lehtimaki), [Jaakko Pehkonen](https://www.jyu.fi/fi/henkilot/jaakko-pehkonen), [Niina Pitkänen](https://www.utu.fi/en/people/niina-pitkanen?sort_by=field_publication_date_value&page=5), and [Olli Raitakari](https://www.utu.fi/en/people/olli-raitakari))<br>
-Accepted at PLOS One<br><br>
+[PLOS One (2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297594)<br><br>
+Accepted at <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
