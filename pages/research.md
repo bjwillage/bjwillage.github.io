@@ -28,7 +28,7 @@ Revisions requested at Journal of Political Economy Microeconomics
 [NHH Working Paper](https://swopec.hhs.se/nhheco/abs/nhheco2022_019.htm)
 <br><br>
 
-"The Menopause Penalty "<br>
+"The Menopause Penalty"<br>
 (with [G. Conti](http://gabriellaconti.org), [R. Ginja](https://sites.google.com/site/rcginja/), and [P. Persson](https://web.stanford.edu/~perssonp/))
 [IFS Working Paper](https://ifs.org.uk/publications/menopause-penalty)
 <br><br>
