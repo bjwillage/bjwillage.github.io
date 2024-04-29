@@ -7,12 +7,6 @@ description: Barton Willage's research
 
 ### Working Papers
 
-"Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
-(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
-Revisions requested at Journal of Political Economy Microeconomics
-<br><br>
-
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
@@ -42,6 +36,12 @@ Revisions requested at Journal of Political Economy Microeconomics
 (with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
 [CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)<br>
 Accepted at Review of Economics and Statistics
+<br><br>
+
+"Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
+[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
+Accepted at Journal of Political Economy Microeconomics
 <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
