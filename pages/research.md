@@ -52,6 +52,11 @@ Accepted at Journal of Political Economy Microeconomics
 (with [Jutta Viinikainen](https://www.jyu.fi/fi/henkilot/jutta-viinikainen), [Petri Böckerman](https://www.petribockerman.fi/), [Marko Elovainio](https://researchportal.helsinki.fi/en/persons/marko-elovainio), [Jaana T. Kari1](https://www.jyu.fi/fi/henkilot/jaana-kari), [Terho Lehtimäki](https://www.tuni.fi/en/terho-lehtimaki), [Jaakko Pehkonen](https://www.jyu.fi/fi/henkilot/jaakko-pehkonen), [Niina Pitkänen](https://www.utu.fi/en/people/niina-pitkanen?sort_by=field_publication_date_value&page=5), and [Olli Raitakari](https://www.utu.fi/en/people/olli-raitakari))<br>
 [PLOS One (2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297594)<br><br>
 
+"The Impact of Restaurant Menu Calorie Labels on Restaurant Revenue and Profit: Evidence From a Randomized Controlled Trial"<br>
+(with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
+[Cornell Hospitality Quarterly (20024)](https://doi.org/10.1177/19389655231214746)
+<br><br>
+
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
 [Journal of Policy Analysis and Management (2023)](https://onlinelibrary.wiley.com/doi/10.1002/pam.22504)<br><br>
