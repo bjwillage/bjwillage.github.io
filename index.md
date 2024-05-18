@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Barton Willage
-description: Barton Willage is an Assistant Professor, Department of Economics, University of Colorado - Denver. 
+description: Barton Willage is an Associate Professor, Department of Economics, University of Delaware. 
 keywords: 
 ---
 
@@ -22,16 +22,16 @@ keywords:
         
         <div class="span5">
             Barton Willage, PhD
-            <br/>Assistant Professor<br/>
+            <br/>Associate Professor<br/>
             Department of Economics<br/>
-            University of Colorado - Denver<br/><br>
+            University of Delaware <br/><br>
             
             <div id="hide_email">
-            Email: barton.willage@ucdenver.edu<br>
+            Email: willage@udel.edu<br>
             Phone: 812-599-1079<br>
         
         
-        <br>I am an assistant professor of economics at University of Colorado - Denver. My research areas are primarily health economics and public economics, and more recently labor economics and economics of education.         
+        <br>I am an associate professor of economics at University of Delaware. My research areas are primarily health economics and public economics, and more recently labor economics and economics of education.         
             </div>
         </div>
     </div>
