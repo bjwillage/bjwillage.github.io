@@ -94,11 +94,11 @@ h1, h2, h3, h4 {
    padding-left:20px;
    padding-right:20px;
    background-color:#fafafa;
-   background-image:-moz-linear-gradient(top, #3c1053, #3c1053);
-   background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#3c1053), to(#3c1053));
-   background-image:-webkit-linear-gradient(top, #3c1053, #3c1053);
-   background-image:-o-linear-gradient(top, #3c1053, #3c1053);
-   background-image:linear-gradient(to bottom, #3c1053, #3c1053);
+   background-image:-moz-linear-gradient(top, #00539f, #00539f);
+   background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#00539f), to(#00539f));
+   background-image:-webkit-linear-gradient(top, #00539f, #00539f);
+   background-image:-o-linear-gradient(top, #00539f, #00539f);
+   background-image:linear-gradient(to bottom, #00539f, #00539f);
    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
    border:1px solid #3c1053;
    -webkit-border-radius:4px;
