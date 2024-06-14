@@ -100,7 +100,7 @@ h1, h2, h3, h4 {
    background-image:-o-linear-gradient(top, #00539f, #00539f);
    background-image:linear-gradient(to bottom, #00539f, #00539f);
    background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
-   border:1px solid #3c1053;
+   border:1px solid #00539f;
    -webkit-border-radius:4px;
    -moz-border-radius:4px;
    border-radius:4px;
