@@ -126,12 +126,12 @@ h1, h2, h3, h4 {
 }
 /*Change color of your website name in navigation bar
 .navbar .brand {
-   color: #000000;
+   color: #d6dbdf;
    text-shadow: none;
 }*/
 /*Change color of the links in the navigation bar:*/
 .navbar .nav>li>a {
-   color: #000000;
+   color: #d6dbdf;
    text-shadow: none;
 }
 
