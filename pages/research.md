@@ -39,7 +39,7 @@ Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_
 
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
 (with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))<br>
-[Accepted at Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
+Accepted at [Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
 <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
