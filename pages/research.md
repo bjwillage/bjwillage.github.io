@@ -33,15 +33,13 @@ description: Barton Willage's research
 ### Published Research
 
 "The Value of a High School GPA"<br>
-(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/getting-lucky-long-term-consequences-exam-luck)<br>
-Accepted at Review of Economics and Statistics
+(with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))<br>
+Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_01422)
 <br><br>
 
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
-(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))
-[CESifo Working Paper](https://www.cesifo.org/en/publikationen/2022/working-paper/does-your-doctor-matter-doctor-quality-and-patient-outcomes)<br>
-Accepted at Journal of Political Economy Microeconomics
+(with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))<br>
+[Accepted at Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
 <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
