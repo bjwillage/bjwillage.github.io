@@ -42,6 +42,11 @@ Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_
 Accepted at [Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
 <br><br>
 
+"Spillovers From Medicaid Contraceptive Use to Non- Medicaid Patients: Evidence From New York"<br>
+(with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
+Accepted at Health Economics
+<br><br>
+
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
 (with [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home) and [A. Willén](https://www.alexanderwillen.com/))<br>
 [Journal of Labor Economics (2024)](https://www.journals.uchicago.edu/doi/10.1086/722086)<br><br>
