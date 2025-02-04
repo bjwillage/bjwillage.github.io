@@ -65,7 +65,7 @@ The American Economic Association also has some [resources](https://www.aeaweb.o
 <br>
 
 ### International Orgs
-*[International Monetary FUnd](https://www.imf.org/en/About/Recruitment)<br>
+*[International Monetary Fund](https://www.imf.org/en/About/Recruitment)<br>
 *[World Bank](https://www.worldbank.org/en/about/careers)<br>
 *[Inter-American Dev Bank](https://jobs.iadb.org/en)<br>
 *[International Food Policy Research Institute](https://www.ifpri.org/work-with-us)<br>
