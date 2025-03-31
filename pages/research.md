@@ -15,6 +15,7 @@ description: Barton Willage's research
 Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C<br>
 (with [James Flynn](https://sites.google.com/colorado.edu/james-flynn) and [Bethany Lemont](https://sites.google.com/view/bethanylemont))
 [NBER Working Paper](https://www.nber.org/papers/w33617)
+<br><br>
 
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
