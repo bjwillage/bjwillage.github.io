@@ -7,6 +7,15 @@ description: Barton Willage's research
 
 ### Working Papers
 
+"The Menopause Penalty"<br>
+(with [G. Conti](http://gabriellaconti.org), [R. Ginja](https://sites.google.com/site/rcginja/), and [P. Persson](https://web.stanford.edu/~perssonp/))
+[NBER Working Paper](https://www.nber.org/papers/w33621)
+<br><br>
+
+Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C<br>
+(with [James Flynn](https://sites.google.com/colorado.edu/james-flynn) and [Bethany Lemont](https://sites.google.com/view/bethanylemont))
+[NBER Working Paper](https://www.nber.org/papers/w33617)
+
 "Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
