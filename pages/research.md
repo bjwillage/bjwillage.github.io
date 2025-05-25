@@ -48,9 +48,14 @@ Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_
 Accepted at [Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
 <br><br>
 
+"Effects of School Meals on Nutrition: Evidence from the Start of the School Year"<br>
+(with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
+Accepted at Food Policy
+<br><br>
+
 "Spillovers From Medicaid Contraceptive Use to Non- Medicaid Patients: Evidence From New York"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
-Accepted at [Health Economics](https://doi.org/10.1002/hec.4945)
+[Health Economics (2025)](https://doi.org/10.1002/hec.4945)
 <br><br>
 
 "The Effect of Labor Market Shocks Across the Life Cycle"<br>
