@@ -50,7 +50,7 @@ Accepted at [Journal of Political Economy Microeconomics](https://www.journals.u
 
 "Effects of School Meals on Nutrition: Evidence from the Start of the School Year"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
-Accepted at Food Policy
+[Food Policy (2025)](https://www.sciencedirect.com/science/article/pii/S030691922500106X)
 <br><br>
 
 "Spillovers From Medicaid Contraceptive Use to Non- Medicaid Patients: Evidence From New York"<br>
