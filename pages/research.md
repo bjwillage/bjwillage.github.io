@@ -51,7 +51,7 @@ Accepted at Journal Health Economics <br><br>
 [Food Policy (2025)](https://www.sciencedirect.com/science/article/pii/S030691922500106X)
 <br><br>
 
-"Spillovers From Medicaid Contraceptive Use to Non- Medicaid Patients: Evidence From New York"<br>
+"Spillovers From Medicaid Contraceptive Use to Non-Medicaid Patients: Evidence From New York"<br>
 (with [Kevin Callison](https://sph.tulane.edu/hpm/kevin-callison) and [Marisa Carlos](https://www.analysisgroup.com/experts-and-consultants/managers/marisa-carlos/))<br>
 [Health Economics (2025)](https://doi.org/10.1002/hec.4945)
 <br><br>
