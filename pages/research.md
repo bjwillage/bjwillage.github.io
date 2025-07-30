@@ -27,12 +27,6 @@ Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate H
 [IZA Working Paper](https://docs.iza.org/dp15630.pdf)
 <br><br>
 
-"Employment Protection and Child Development"<br>
-(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
-[NHH Working Paper](https://swopec.hhs.se/nhheco/abs/nhheco2022_019.htm)
-<br><br>
-
-
 
 <br>
 
@@ -47,6 +41,10 @@ Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_
 (with [R. Ginja](https://sites.google.com/site/rcginja/), [J. Riise](https://sites.google.com/site/riisejulie), and [A. Willén](https://www.alexanderwillen.com/))<br>
 Accepted at [Journal of Political Economy Microeconomics](https://www.journals.uchicago.edu/doi/10.1086/732838)
 <br><br>
+
+"Intergenerational Effects of Sick Leave on Child Human Capital"<br>
+(with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))
+Accepted at Journal Health Economics <br><br>
 
 "Effects of School Meals on Nutrition: Evidence from the Start of the School Year"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
