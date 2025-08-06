@@ -44,7 +44,7 @@ Accepted at [Journal of Political Economy Microeconomics](https://www.journals.u
 
 "Intergenerational Effects of Sick Leave on Child Human Capital"<br>
 (with [J. Riise](https://sites.google.com/site/riisejulie) and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at Journal Health Economics <br><br>
+[Journal Health Economics (2025)](https://www.sciencedirect.com/science/article/pii/S0167629625000827)<br><br>
 
 "Effects of School Meals on Nutrition: Evidence from the Start of the School Year"<br>
 (with [M. Bitler](https://sites.google.com/site/mbitler), [J. Currie](https://scholar.princeton.edu/jcurrie/home), [H. Hoynes](https://gspp.berkeley.edu/directories/faculty/hilary-hoynes), [K. Ruffini](https://sites.google.com/view/kristaruffini/), and [L. Schulkind](http://lisaschulkind.weebly.com/))<br>
