@@ -34,7 +34,7 @@ Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate H
 
 "The Value of a High School GPA"<br>
 (with [F. Landaud](https://sites.google.com/view/fannylandaud/home?authuser=0),  [É. Maurin](https://www.parisschoolofeconomics.eu/en/maurin-eric/), and [A. Willén](https://www.alexanderwillen.com/))<br>
-Accepted at [Review of Economics and Statistics](https://doi.org/10.1162/rest_a_01422)
+[Review of Economics and Statistics (2026)](https://doi.org/10.1162/rest_a_01422)
 <br><br>
 
 "Does Your Doctor Matter? Doctor Quality and Patient Outcomes"<br>
