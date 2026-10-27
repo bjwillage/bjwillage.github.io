@@ -66,7 +66,7 @@ Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate H
 
 "The Impact of Restaurant Menu Calorie Labels on Restaurant Revenue and Profit: <br> Evidence From a Randomized Controlled Trial"<br>
 (with [J. Cawley](https://www.human.cornell.edu/people/jhc38) and [A. Susskind](https://sha.cornell.edu/faculty-research/faculty/ams76))<br>
-[Cornell Hospitality Quarterly (20024)](https://doi.org/10.1177/19389655231214746)
+[Cornell Hospitality Quarterly (2024)](https://doi.org/10.1177/19389655231214746)
 <br><br>
 
 "Non-Monetary Obstacles to Medical Care Evidence from Postpartum Contraceptives"<br>
