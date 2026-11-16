@@ -9,20 +9,24 @@ description: Barton Willage's research
 
 "The Menopause Penalty"<br>
 (with [G. Conti](http://gabriellaconti.org), [R. Ginja](https://sites.google.com/site/rcginja/), and [P. Persson](https://web.stanford.edu/~perssonp/))
+Reject and Resubmit at Science<br>
 [NBER Working Paper](https://www.nber.org/papers/w33621)
 <br><br>
 
 Subscriptions to Prescriptions: Lessons from Louisiana’s Effort to Eliminate Hepatitis C<br>
+Reject and Resubmit at Journal of Public Economics<br>
 (with [James Flynn](https://sites.google.com/colorado.edu/james-flynn) and [Bethany Lemont](https://sites.google.com/view/bethanylemont))
 [NBER Working Paper](https://www.nber.org/papers/w33617)
 <br><br>
 
-"Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
+<!--"Health Insurance for Whom? The ‘Spill-up’ Effects of Children’s Health Insurance on Mothers"<br>
 (with [D. Grossman](https://sites.google.com/view/danielgrossman/home) and [S. Tello-Trillo](https://sebastiantellotrillo.com/))
 [NBER Working Paper](https://www.nber.org/papers/w29661)
 <br><br>
+-->
 
 "The Timing of Parental Job Displacement, Child Development and Family Adjustment"<br>
+Conditionally Accepted at Economic Journal<br>
 (with [P. Carneiro](https://www.ucl.ac.uk/~uctppca/), [K. G. Salvanes](https://sites.google.com/view/kjellsalvanes/home), and [A. Willén](https://www.alexanderwillen.com/))
 [IZA Working Paper](https://docs.iza.org/dp15630.pdf)
 <br><br>
